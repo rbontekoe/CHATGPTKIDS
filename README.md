@@ -2,7 +2,7 @@
 
 **UNDER DEVELOPMENT**
 
-# Raspberry Pi voor Kids: Leer Docker, Portainer, Node-RED, Grafana, InfluxDB, Domoticz en Slimme Meters gebruiken met deze leuke cursus
+# Raspberry Pi voor Kids: Leer Node-RED en Sense-HAT programmeren. 
 
 *Wordt een expert op het gebied van Raspberry Pi, containerisatie en thuisautomatisering.*
 
