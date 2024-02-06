@@ -18,10 +18,11 @@ makedocs(
         ],
         "Sectie 3 - Ervaring opdoen met API's" => [
             "6 Wat is een API?" => "chapter6.md" => "chapter6.md"
-            "7 Voorbeeld van een Honden website" => "chapter7.md"
+            "7 Je tweede applicatie: Plaatjes van Honden tonen" => "chapter7.md"
         ],
         "Sectie 4 - ChatGPT als code generator gebruiken" => [
-            "7 Vuurpijl afschieten" => "chapter10.md",
+            "8 Python programma maken voor de Sense-HAT" => "chapter8.md",
+            "9 Vuurpijl afschieten" => "chapter9.md",
         ],
         "Bijlage" => "appendix.md",
         "References" => "references.md"
