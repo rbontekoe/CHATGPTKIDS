@@ -6,7 +6,7 @@
 
 *Wordt een expert op het gebied van Raspberry Pi, containerisatie en thuisautomatisering.*
 
-[Cursusmateriaal](https://rbontekoe.github.io/RASPIKIDS/stable)
+[Cursusmateriaal](https://rbontekoe.github.io/CHATGPTKIDS/stable)
 
 ##CHATGPTKIDS
 
