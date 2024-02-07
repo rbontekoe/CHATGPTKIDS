@@ -16,13 +16,12 @@ makedocs(
         "Sectie 2 - Ervaring opdoen met Node-RED" => [
             "5 Je eerste applicatie: een website opzetten" => "chapter5.md"
         ],
-        "Sectie 3 - Ervaring opdoen met API's" => [
-            "6 Wat is een API?" => "chapter6.md",
-            "7 Je tweede applicatie: Plaatjes van Honden tonen" => "chapter7.md"
+        "Sectie 3 - Werken met API's" => [
+            "6 Je tweede applicatie: Plaatjes van Honden tonen" => "chapter6.md"
         ],
         "Sectie 4 - ChatGPT als code generator gebruiken" => [
-            "8 Python programma maken voor de Sense-HAT" => "chapter8.md",
-            "9 Vuurpijl afschieten" => "chapter9.md"
+            "7 Python programma maken voor de Sense-HAT" => "chapter7.md",
+            "8 Vuurpijl afschieten" => "chapter8.md"
         ],
         "Bijlage" => "appendix.md",
         "References" => "references.md"

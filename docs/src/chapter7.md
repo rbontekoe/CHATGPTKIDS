@@ -1,4 +1,4 @@
-# ChatGPT gebruiken.
+# Python programma maken voor de Sense-HAT.
 
 *ChatGPT kan Python code voor je genereren. We laten zien hoe je een vuurpijl simuleert op de Sense-HAT.*
 

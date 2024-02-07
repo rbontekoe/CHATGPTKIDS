@@ -1,6 +1,6 @@
-# Python programma maken voor de Sense-HAT.
+# Vuurpijl afschieten.
 
-*ChatGPT kan Python code voor je genereren. We laten zien hoe je een vuurpijl simuleert op de Sense-HAT.*
+*We laten zien hoe je met Node-RED een Python programma een vuurpijl afschiet op de Sense-HAT.*
 
 ### Inhoud.
 
