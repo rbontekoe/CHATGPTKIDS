@@ -14,14 +14,13 @@ makedocs(
             "4 Node-RED installeren." => "chapter4.md"
         ],
         "Sectie 2 - Ervaring opdoen met Node-RED" => [
-            "5 Je eerste applicatie: een website opzetten" => "chapter5.md"
+            "5 Je eerste applicatie: een website opzetten." => "chapter5.md"
         ],
         "Sectie 3 - Werken met API's" => [
-            "6 Je tweede applicatie: Plaatjes van Honden tonen" => "chapter6.md"
+            "6 Je tweede applicatie: Plaatjes van Honden tonen." => "chapter6.md"
         ],
         "Sectie 4 - ChatGPT als code generator gebruiken" => [
-            "7 Python programma maken voor de Sense-HAT" => "chapter7.md",
-            "8 Vuurpijl afschieten" => "chapter8.md"
+            "7 Je derde applicatie: Vuurpijl afschieten." => "chapter7.md"
         ],
         "Bijlage" => "appendix.md",
         "References" => "references.md"

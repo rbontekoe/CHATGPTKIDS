@@ -55,15 +55,15 @@ Dus dit stuk code bevat informatie over de status van een bepaalde actie en een 
 
    Een `http request` gebruik je als je op internet iets vraagt aan een website, zoals de honden website. Het antwoord dat je terugkrijgt is in het formaat van "JSON". Als je "debug" gebruikt, kun je het antwoord dat je hebt opgehaald bekijken.
 
-2. Verbind de knooppunten net als op de tekening:
+3. Verbind de knooppunten net als op de tekening:
    
    ![fig_6_5](assets/fig_6_5.png)
 
-3. Voer de volgende webadres in bij het invoerveld 'http in': `/toon`.
+4. Voer de volgende webadres in bij het invoerveld 'http in': `/toon`.
 
-4. Geef het webadres voor een foto van een hond op: `https://dog.ceo/api/breeds/image/random`. Stel "**<-**Return" in op "a parsed JSON object".
+5. Geef het webadres voor een foto van een hond op: `https://dog.ceo/api/breeds/image/random`. Stel "**<-**Return" in op "a parsed JSON object".
 
-5. Je krijgt een plaatje van een willekeurige hond te zien met de HTML code: `<img src="{{payload}}.message">`.
+6. Je krijgt een plaatje van een willekeurige hond te zien met de HTML code: `<img src="{{payload}}.message">`.
 
    Deze code moet je gebruiken om [echte websites](https://www.w3schools.com/html/html_intro.asp) te maken.
 
@@ -88,7 +88,7 @@ Dus dit stuk code bevat informatie over de status van een bepaalde actie en een 
    
    Klik [hier voor een lijst met API's](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/).
 
-6. Test het resultaat in de browser: `IP_adres_raspberry_pi:1880/toon`.
+7. Test het resultaat in de browser: `IP_adres_raspberry_pi:1880/toon`.
 
 ## Stap 2: Website personaliseren.
 

@@ -2,7 +2,7 @@
 
 **UNDER DEVELOPMENT**
 
-# Raspberry Pi voor Kids: Leer Node-RED en Sense-HAT programmeren. 
+# CHATGPTKIDS: Leer Node-RED en Sense-HAT programmeren. 
 
 *Wordt een expert op het gebied van Raspberry Pi, containerisatie en thuisautomatisering.*
 
