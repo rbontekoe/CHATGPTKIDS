@@ -94,7 +94,7 @@ sense.clear(1, 1, 1)
 
 ###### Opdracht.
 
-Vervang de Python code van vuurpijl.py door die staat aan het begin van deze paragraaf, [Stap 2](#Stap-2:-Python-code-vanuit-Node-RED-aanroepen.). 
+Vervang de Python code van vuurpijl.py door de code die staat aan het begin van deze paragraaf, [Stap 2](#Stap-2:-Python-code-vanuit-Node-RED-aanroepen.). Test de code.
 
 
 ## Samenvatting.
