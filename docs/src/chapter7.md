@@ -33,7 +33,7 @@ https://openai.com/
 | 1 | Open je browser. |
 | 2 | Type: https://openai.com/ in de adresbalk. |
 | 3 | Klik rechtsboven op de toets: Try ChatGPT. |
-| 4 | Vermoedlijk wordt er gevraagd om in te loggen. Registreer jezelf. Het makkelijkste is als je al een Google account hebt. |
+| 4 | Vermoedlijk wordt er gevraagd om in te loggen. Registreer jezelf eerst. Het makkelijkste is het als je al een Google account hebt. |
 | 5 | Klik links boven op: New Chat. |
 | 6 | Stel een vraag in het boxje onderaan in het midden, bijvoorbeeld: Wie heeft het programma Python ontwikkeld? |
 | 7 | Vermoedelijk krijg je het volgende antwoord: Python is ontwikkeld door Guido van Rossum en werd voor het eerst uitgebracht in 1991. Van Rossum is een Nederlands informaticus die Python ontwikkelde als een opvolger van de programmeertaal ABC. Hij leidde het project gedurende vele jaren en had een grote invloed op de ontwikkeling van Python. |
@@ -42,12 +42,59 @@ https://openai.com/
 
 In principe begin je meet een eenvoudige vraag, die je steeds verder uitwerkt, bijvoorbeeld:
 
-1. schrijf de Python code voor een vuurpijl voor de sense-HAT.
+v1. schrijf de Python code voor een vuurpijl voor de sense-HAT.
 
-
-
-
+Test je code
+1. Open een terminal op je laptop en type: ssh pi@192.168.2.15. Gebruik bij de CoderDojo het wachtwoord: `r7P94%B&`.
+2. Typ: `cd projects/python`.
+3. Typ: `nano vuurpijl.py`.
+4. Plak de code van ChatGPT in de editor.
+5. Bewaar het bestand met: Ctrl+O.
+6. Verlaat de editor met: Ctrl+X.
+7. Typ: `python vuurpijl.py`.
 
 ## Stap 2: Python code vanuit Node-RED aanroepen.
 
-## Samenvattng.
+Resultaat Python code docent, waar ik wel het nodige aan heb moeten sleutelen:
+
+```
+from sense_hat import SenseHat
+import time
+import random
+
+sense = SenseHat()
+
+# Functie voor het weergeven van een vuurpijl op het LED-display met donkerblauwe achtergrond
+def vuurpijl():
+    sense.clear(0, 0, 50)  # Zet het hele display op donkerblauw als achtergrond
+
+    # Loop om de vuurpijl te simuleren
+    for i in range(8):
+        # Toon de vuurpijl die omhoog schiet
+        sense.set_pixel(3, 7 - i, (255, 255, 255))  # Witte lijn die omhoog gaat
+        time.sleep(0.1)
+
+    sense.clear(0, 0, 50)  # Wis het display voor de explosie
+
+    # Simuleer explosie van de vuurpijl op een donkerblauwe achtergrond
+    for _ in range(100):
+        for _ in range(25):
+            x = random.randint(0, 7)
+            y = random.randint(0, 7)
+            kleur = (random.randint(100, 255), random.randint(0, 255), random.randint(100, 255))  # Pas de kleuren aan naar wens
+
+            sense.set_pixel(x, y, kleur)
+        time.sleep(0.05)
+        sense.clear(0, 0, 50)  # Wis het display voor de volgende stap
+
+# Roep de vuurpijl functie aan
+vuurpijl()
+sense.clear(1, 1, 1)
+```
+
+###### Opdracht.
+
+Vervang de Python code van vuurpijl.py door die staat aan het begin van deze paragraaf, [Stap 2](#Stap-2:-Python-code-vanuit-Node-RED-aanroepen.). 
+
+
+## Samenvatting.
