@@ -12,7 +12,6 @@ Pages = ["chapter4.md"]
 
 - Een Raspberry Pi 4B met het besturingssysteem Raspberry Pi Lite.
 - Een Sense-HAT ingepluged op de Raspberry Pi.
-- Docker en Portainer zijn geinstalleerd.
 - Een SSH verbinding met de Raspberry Pi vanuit je laptop.
 
 ## Wat je gaat doen
