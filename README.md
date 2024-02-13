@@ -4,8 +4,6 @@
 
 # CHATGPTKIDS: Leer Node-RED en Sense-HAT programmeren. 
 
-*Wordt een expert op het gebied van Raspberry Pi, containerisatie en thuisautomatisering.*
-
 [Cursusmateriaal](https://rbontekoe.github.io/CHATGPTKIDS/stable)
 
 ##CHATGPTKIDS
