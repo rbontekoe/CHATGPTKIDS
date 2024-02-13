@@ -19,7 +19,7 @@ Ik werk graag met Node-RED. Dit is een programma waarmee we grafisch onze progra
 
 Je gaat ook Python in de cursus gebruiken. Python wordt standaard meegeleverd bij het Raspberry Pi besturingssysteem, het is een populaire programmeertaal waarmee je ook de Sense-HAT kunt aansturen en uitlezen.
 
-ChatGPT is een generatieve AI (kustmatige intelligentie) dat Python programma's voor je kan gnereren. In de cursus maak je daarmee kennis. ChatGPT wordt dus je prive programmeur. Helaas lukte het mij niet om flows voor Node-RED door ChatGPT te laten genereren. Dan heb zou je Python niet meer nodig hebben.
+ChatGPT is een generatieve AI (kustmatige intelligentie) dat Python programma's voor je kan gnereren. In de cursus maak je daarmee kennis. ChatGPT wordt dus je prive programmeur. Helaas lukte het mij niet om flows voor Node-RED door de gratis versie (3.5) van ChatGPT te laten genereren. Dan heb zou je Python niet meer nodig hebben.
 
 Succes met de cursus.
 
