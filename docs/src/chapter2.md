@@ -63,7 +63,7 @@ Gebruik de volgende stappen volgen om een verbinding te maken met de Raspberry P
 | 3 | Typ: yes. ``\\``![fig_4_5](assets/fig_4_5.png) |
 | 4 | Vul de naam en het wachtwoord in die je gebruikt voor je Raspberry Pi. Als alles goed is gegaan, dan moet je nu verbonden zijn met de Raspberry Pi vanaf een andere computer. Dan kan je opdrachten geven aan de Raspberry Pi en bestanden uitwisselen tussen de twee computers. |
 | 5 | Als je windows gebruikt, dan moet je een programma genaamd [Putty](https://www.ssh.com/academy/ssh/putty/windows/install) installeren. Met dat programma kan je een  maken. |
-| 5 | Als je een Chromebook hebt, kun je naar Linux gaan door op een speciaal symbool te klikken en dan te kiezen voor Penquin. ``\\``![Linux](assets/fig_2_1.png) 
+| 5 | Als je een Chromebook hebt, kun je naar Linux gaan door op een speciaal symbool (>_) te klikken en dan te kiezen voor Penquin. ``\\``![Linux](assets/fig_2_1.png) 
 ||
 
 ## Samenvatting.
