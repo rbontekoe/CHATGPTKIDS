@@ -83,7 +83,6 @@ Windows Subsystem for Linux (WSL) is een tool waarmee je Linux-programma's op je
 # Typ: ssh pi@IP_adres_Raspberry_Pi. 
 # Er wordt de eerste keer gevraagd of je verder wilt gaan, typ: yes. En druk daarna op de Enter-toets. 
 # Daarna wordt er gevraagd om het wachtwoord van de Raspberry Pi.
-ssh pi@IP_adres_Raspberry_Pi
 ```
 
 !!! info
