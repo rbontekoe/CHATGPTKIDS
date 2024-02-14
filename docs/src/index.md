@@ -100,7 +100,7 @@ Hey daar! Ik ben ChatGPT, een super slim programma dat met je kan praten en vrag
 
 ###### Wat kan ik doen?
 
-- **Vragen beantwoorden:** Stel me alles! Over dieren, wetenschap, geschiedenis, of wat je maar wilt weten.
+- **Vragen beantwoorden:** Vraag me alles! Over dieren, wetenschap, geschiedenis, of wat je maar wilt weten.
 - **Spelletjes:** Laten we samen raadsels oplossen of misschien een quiz doen!
 - **Verhalen vertellen:** Wil je een kort verhaal horen? Ik kan er een voor je maken!
 - **Python code genereren:** Ik kan zelfs helpen met het maken van eenvoudige stukjes Python code!
