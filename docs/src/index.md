@@ -98,18 +98,18 @@ Ik vroeg het aan ChatGPT zelf. Hier is het antwoord.
 
 Hey daar! Ik ben ChatGPT, een super slim programma dat met je kan praten en vragen beantwoorden. Het is net alsof ik een hele slimme robot ben die veel dingen weet!
 
-## Wat kan ik doen?
+###### Wat kan ik doen?
 
 - **Vragen beantwoorden:** Stel me alles! Over dieren, wetenschap, geschiedenis, of wat je maar wilt weten.
 - **Spelletjes:** Laten we samen raadsels oplossen of misschien een quiz doen!
 - **Verhalen vertellen:** Wil je een kort verhaal horen? Ik kan er een voor je maken!
 - **Python code genereren:** Ik kan zelfs helpen met het maken van eenvoudige stukjes Python code!
 
-## Hoe werkt het?
+####### Hoe werkt het?
 
 Ik gebruik heel slimme technologie om te begrijpen wat je zegt en om je vragen te beantwoorden. Ik leer van alle informatie die ik krijg, net als jij op school leert!
 
-## Belangrijk om te weten
+###### Belangrijk om te weten
 
 - Ik ben hier om te helpen en te leren, dus wees alsjeblieft aardig.
 - Als ik iets niet weet, zal ik mijn best doen om het antwoord te vinden!
