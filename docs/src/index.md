@@ -94,7 +94,7 @@ Door zijn veelzijdigheid, eenvoudige leesbaarheid en brede toepassingsgebieden i
 
 Ik vroeg het aan ChatGPT zelf. Hier is het antwoord. 
 
-## ChatGPT: Jouw Slimme Gesprekspartner!
+###### ChatGPT: Jouw Slimme Gesprekspartner!
 
 Hey daar! Ik ben ChatGPT, een super slim programma dat met je kan praten en vragen beantwoorden. Het is net alsof ik een hele slimme robot ben die veel dingen weet!
 
@@ -105,7 +105,7 @@ Hey daar! Ik ben ChatGPT, een super slim programma dat met je kan praten en vrag
 - **Verhalen vertellen:** Wil je een kort verhaal horen? Ik kan er een voor je maken!
 - **Python code genereren:** Ik kan zelfs helpen met het maken van eenvoudige stukjes Python code!
 
-####### Hoe werkt het?
+###### Hoe werkt het?
 
 Ik gebruik heel slimme technologie om te begrijpen wat je zegt en om je vragen te beantwoorden. Ik leer van alle informatie die ik krijg, net als jij op school leert!
 
