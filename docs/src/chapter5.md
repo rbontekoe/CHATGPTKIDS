@@ -59,7 +59,7 @@ Web responsive design (WRD) betekent dat je website op elk apparaat, zoals je co
 
 1. Ga met je browser naar Node-RED: `IP_adres_raspberry_pi:1880`.
 
-2. Tegenwoordig wil je graag dat je webite zowel op een computer als op een smartphone goed te zien is. Daarvoor gebruiken onwikkelaars van websites het framework "Bootstrap": zie ook [bootstrap](https://www.w3schools.com/bootstrap/). Een voorbeeld, vervang de code in het knooppunt `template` met de volgende code:
+2. Vervang de code in het knooppunt `template` met de volgende code:
 
    ```
    <!DOCTYPE html>
@@ -75,14 +75,14 @@ Web responsive design (WRD) betekent dat je website op elk apparaat, zoals je co
      <body>
       
        <div class="container">
-         <h1><Hallo Wereld!</h1>
-         <p>Een website maak je met HTML-tags. Een tag staat tussen een kleiner (<) een een gtoter (>) teken.</p>
+         <h1>Hallo Wereld!</h1>
+         <p>Een website maak je met HTML-tags. Een tag staat tussen een kleiner (<) en een gtoter (>) teken.</p>
          <p>Een HTML-tag wordt afgesloten met dezelfde naam voorafgegaan door het slash (/) teken.</p>
          <p>Voor de kopteksten gebruik je de tags h1 tot en met h6.</p>
          <p>Gewone tekst zet je tussen de p-tags.</p>
          <p>Veel plezier met het maken van je website. Rob.</p>
          <img src="{{payload.message}}" width="100%" />           
-       </div>        Hm...
+       </div>
      
      </body>
    </html>
@@ -95,13 +95,11 @@ Web responsive design (WRD) betekent dat je website op elk apparaat, zoals je co
    
    Daarna hebben we de <head> en <body> secties. In de <head> sectie staat informatie over de website, zoals de titel van de website en de bronnen voor stijlen en scripts.
    
-   In de <body> sectie staat de inhoud van de website die we willen weergeven aan de gebruiker. Bijvoorbeeld een knop om naar een volgend plaatje te gaan, een koptekst "Mijn Honden Pagina" en een plaatje van een hond.
+   In de <body> sectie staat de inhoud van de website die we willen weergeven aan de gebruiker.
    
    De code maakt gebruik van Bootstrap, een toolkit voor het maken van mooie en responsieve websites.
 
-3. Test de website op je computer door het venster van de browser smaller te maken: `IP_adres_raspberry_pi:1880/toon`.
-   
-   ![Mijn Eerste Honden Pagina](assets/hs.jpg)
+3. Test de website op je computer door het venster van de browser smaller te maken: `IP_adres_raspberry_pi:1880/hallo`.
 
 !!! info
     Een vast IP-adres op wifi is zoals een huisadres voor je apparaat. Het is uniek en zorgt ervoor dat je apparaat altijd hetzelfde adres heeft wanneer het aan het wifi-netwerk is verbonden. Dit maakt het makkelijker voor andere apparaten om contact met jouw apparaat te maken.
@@ -110,7 +108,6 @@ Web responsive design (WRD) betekent dat je website op elk apparaat, zoals je co
 
 ## Samenvatting
 
-Dit hoofdstuk gaat over het bouwen van een website met Node-RED. Node-RED is een programma waarmee je websites kunt maken en leren hoe HTML-code werkt. De website werkt alleen op het wifi-netwerk waarmee je verbonden bent. Je hebt een Raspberry Pi 3B+ nodig met het besturingssysteem Ubuntu Server 22.04, Docker, Portainer en Node-RED geïnstalleerd. Om een eenvoudige website te maken met Node-RED heb je 3 knooppunten nodig, namelijk "http in", "template" en "http response". Met deze knooppunten maak je een flow die als een soort programma werkt. Je leert ook hoe je kunt werken met API's, waarmee computers met elkaar kunnen communiceren en informatie kunnen uitwisselen. JSON is een manier om informatie op te slaan en uit te wisselen tussen computers en mensen. Er wordt stapsgewijs uitgelegd hoe je een eenvoudige website maakt en hoe je verbinding maakt met de Dogs API om informatie over honden op te halen en deze informatie op de website te tonen.
-
+Dit hoofdstuk gaat over het bouwen van een website met Node-RED. Node-RED is een programma waarmee je websites kunt maken en leren hoe HTML-code werkt. De website werkt alleen op het wifi-netwerk waarmee je verbonden bent. Je hebt een Raspberry Pi 4B nodig met het besturingssysteem Raspberry Pi Lite en Node-RED geïnstalleerd. Om een eenvoudige website te maken met Node-RED heb je 3 knooppunten nodig, namelijk "http in", "template" en "http response". Met deze knooppunten maak je een flow die als een soort programma werkt.
 
 
