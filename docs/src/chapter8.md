@@ -18,6 +18,7 @@ Pages = ["chapter8.md"]
 - Een Raspberry Pi 4B met het besturingssysteem Raspberry Pi Lite.
 - Een Sense-HAT ingepluged op de Raspberry Pi.
 - SSH verbinding met de Raspberry Pi.
+- Les 7: Je derde applicatie: Vuurpijl afschieten".
 
 ## Wat je gaat doen
 
