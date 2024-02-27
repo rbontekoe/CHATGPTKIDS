@@ -34,7 +34,7 @@ Zo is er de website [Dogs](https://dog.ceo/api/breeds/image/random) die steeds d
 }
 ```
 
-De code bevat twee delen: een sleutel en een waarde gescheiden door een dubbele punt (:). De sleutel is aan de linkerkant en de waarde is aan de rechterkant.
+De code bevat twee delen: een sleutel en een waarde gescheiden door een dubbele punt (:). De sleutel staat aan de linkerkant en de waarde staat aan de rechterkant.
 
 De eerste sleutel is "status" en de waarde is "success". Dit betekent dat alles goed is gegaan en er geen fouten zijn opgetreden.
 
@@ -148,3 +148,13 @@ Aan het eind van de les zul je je applicatie aan je medestudenten moeten laten z
 Sommigen zullen het misschien ook op hun Smartphone willen bekijken. Vraag aan je docent wat de naam van het netwerk is en wat de inlogcode is.
 
 ## Samenvattng.
+
+Deze les gaat over het maken van een speciale app. We willen plaatjes van honden laten zien! We gebruiken een speciale website om deze plaatjes te krijgen.
+
+Eerst leren we over iets dat een "API" heet. Dat is een manier voor computers om met elkaar te praten en informatie te delen. We krijgen de plaatjes van honden via zo'n API, en de informatie komt in een speciaal formaat genaamd "JSON".
+
+Daarna leren we hoe we een website maken. We gebruiken een Raspberry Pi-computer en schrijven wat code om de plaatjes te laten zien. Ook leren we hoe we de website mooi kunnen maken, zodat hij er goed uitziet op verschillende apparaten.
+
+Uiteindelijk, als onze website klaar is, kunnen we het aan anderen laten zien. Misschien willen onze vrienden het op hun computer of smartphone bekijken. We moeten dan wel weten hoe we verbinding kunnen maken met hetzelfde Wi-Fi-netwerk als zij. Dat vragen we aan de leraar.
+
+Dat is in het kort waar deze les over gaat! We leren hoe we plaatjes van honden kunnen laten zien op onze zelfgemaakte website, en hoe we die met anderen kunnen delen.
