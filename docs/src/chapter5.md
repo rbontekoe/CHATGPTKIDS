@@ -59,7 +59,7 @@ Web responsive design (WRD) betekent dat je website op elk apparaat, zoals je co
 
 1. Ga met je browser naar Node-RED: `IP_adres_raspberry_pi:1880`.
 
-2. Vervang de code in het knooppunt `template` met:
+2. Tegenwoordig wil je graag dat je webite zowel op een computer als op een smartphone goed te zien is. Daarvoor gebruiken onwikkelaars van websites het framework "Bootstrap": zie ook [bootstrap](https://www.w3schools.com/bootstrap/). Een voorbeeld, vervang de code in het knooppunt `template` met de volgende code:
 
    ```
    <!DOCTYPE html>
