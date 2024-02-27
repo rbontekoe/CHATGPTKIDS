@@ -45,7 +45,7 @@ Met "http in" vertel je hoe mensen naar een specifieke pagina op je website kunn
 
    ![fig_5_3](assets/fig_5_3.png)
 5
-7. Typ in de zoekbalk van je internet browser: `IP_adres_Raspberry_Pi:1880/hallo`. Als alles goed is gegaan, zie je 'Hallo wereld!' in vette letters verschijnen op het scherm.
+7. Typ in de zoekbalk van je internet browser: `IP_adres_Raspberry_Pi:1880/hallo`. Als alles goed is gegaan, zie je 'Hallo wereld!' in vette letters verschijnen op het scherm. Ik heb in het voorbeeld hieronder nog wat extra tekst toegevoegd die ik zet tussen de <p>...</p> tags het gezet.
     
    ![fig_5_4](assets/fig_5_4.png)
 
@@ -75,10 +75,14 @@ Web responsive design (WRD) betekent dat je website op elk apparaat, zoals je co
      <body>
       
        <div class="container">
-         <button onclick="location.reload();">Volgende plaatje</button>
-         <h1 stype="text-align:center;">Mijn Eerste Honden Pagina</h1>
+         <h1><Hallo Wereld!</h1>
+         <p>Een website maak je met HTML-tags. Een tag staat tussen een kleiner (<) een een gtoter (>) teken.</p>
+         <p>Een HTML-tag wordt afgesloten met dezelfde naam voorafgegaan door het slash (/) teken.</p>
+         <p>Voor de kopteksten gebruik je de tags h1 tot en met h6.</p>
+         <p>Gewone tekst zet je tussen de p-tags.</p>
+         <p>Veel plezier met het maken van je website. Rob.</p>
          <img src="{{payload.message}}" width="100%" />           
-       </div>
+       </div>        Hm...
      
      </body>
    </html>
