@@ -98,3 +98,13 @@ Vervang de Python code van vuurpijl.py door de code die staat aan het begin van 
 
 
 ## Samenvatting.
+
+In deze les gaan we leren hoe we een simulatie van een vuurpijl kunnen maken op de Sense-HAT, een speciale sensor die je kunt gebruiken met een Raspberry Pi-computer. We gaan gebruik maken van een programma genaamd ChatGPT, dat speciale Python-code voor ons kan maken.
+
+Eerst moeten we ChatGPT gebruiken om de Python-code te genereren die nodig is om de vuurpijl te simuleren. Dit doen we door naar een speciale website te gaan en vragen te stellen aan ChatGPT. We moeten ons wel eerst registreren op de website van OpenAI om met ChatGPT te kunnen werken.
+
+Als we de Python-code hebben gegenereerd, moeten we deze invoeren op onze Raspberry Pi. We maken verbinding met onze Pi via een SSH-verbinding en voeren de code in. Zo kunnen we de vuurpijl simulatie uitvoeren en zien hoe het eruit ziet op het LED-display van de Sense-HAT.
+
+Als we de simulatie hebben uitgevoerd en tevreden zijn met het resultaat, kunnen we de Python-code ook vanuit Node-RED aanroepen. Dit is een grafische interface waarmee we onze Raspberry Pi kunnen programmeren. We vervangen de bestaande Python-code in Node-RED door de code die we hebben gegenereerd, en testen het opnieuw.
+
+Door deze stappen te volgen, kunnen we leren hoe we een vuurpijl simulatie kunnen maken op de Sense-HAT met behulp van ChatGPT en Python-programmering. Het is een leuke manier om te leren programmeren en te experimenteren met technologieën zoals de Raspberry Pi en de Sense-HAT.
