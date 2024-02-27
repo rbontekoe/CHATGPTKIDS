@@ -23,7 +23,7 @@ Stap 3: Anderen van je website laten genieten.
 
 ## Stap 1: Wat is een API.
 
-Een API (Application Programming Interface) is een manier voor computers om met elkaar te praten en informatie uit te wisselen. Ze doen dit door verzoeken en antwoorden uit te wisselen. JSON is een manier om informatie op te slaan en uit te wisselen die zowel door computers als door mensen begrepen wordt.
+Een API (Application Programming Interface) is een manier voor computers om met elkaar te praten en informatie uit te wisselen. Ze doen dit door verzoeken en antwoorden uit te wisselen. JSON is een manier om informatie op te slaan en uit te wisselen die zowel door computers als door mensen begrepen wordt. Als Nederlander spreek je "API" uit als "ee-pie-ai".
 
 Zo is er de website [Dogs](https://dog.ceo/api/breeds/image/random) die steeds de URL van een ander plaatje van een hond geeft in JSON formaat:
 
