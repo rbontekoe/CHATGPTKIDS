@@ -75,9 +75,9 @@ Volg deze stappen om het werk te doen:
 |:---------- | :---------- |
 | 1 | Gebruik de flow van opdracht 7 en sleep uit het dashboard overzicht de vogende twee nodes toe: button en text. ``\\``![fig_8_10](assets/fig_8_10.png) |
 | 2 | Verander de tekst van de text-node in: "Druk op de toets om een vuurpijl af te schieten." |
-| 3 | Dubbelklik op de toets `button` en kies voor de groep `[Programma's] Vuurpijl`. |
+| 3 | Dubbelklik op de toets `button` en kies voor de groep `[Programma's] Vuurpijl`. ``\\``![fig_8_11](assets/fig_8_11.png) |
 | 4 | Klik op de toets `Done'. |
-| 5 | Dubbelklik op de text-node en kies ook voor de groep `[Programma's] Vuurpijl`. |
+| 5 | Dubbelklik op de text-node en kies ook voor de groep `[Programma's] Vuurpijl`. ``\\``![fig_8_12](assets/fig_8_12.png)|
 | 6 | Klik op de toets `Done'. |
 | 7 | Klik op de Deploy-toets. |
 | 8 | Ga in de browser naar <IP-adres Raspberry Pi>:1880/ui en druk op de Enter toets. ``\\``![fig_8_1](assets/fig_8_1.png) |
