@@ -83,9 +83,16 @@ Volg deze stappen om het werk te doen:
 | 8 | Ga in de browser naar <IP-adres Raspberry Pi>:1880/ui en druk op de Enter toets. ``\\``![fig_8_1](assets/fig_8_1.png) |
 ||
 
-
-
-## Stap 4 - Weergegevens ophalen en op dashboard weergeven
-
-
 ## Samenvatting
+
+In les 8 leren we hoe we een vuurpijl kunnen activeren vanaf onze smartphone met behulp van Node-RED. Node-RED is een programma waarmee we gemakkelijk een live data dashboard kunnen maken. We gaan een dashboard maken dat een knop bevat waarmee we de vuurpijl kunnen afschieten op de Sense-HAT.
+
+Wat hebben we nodig? Een Raspberry Pi 4B met het besturingssysteem Raspberry Pi Lite, een Sense-HAT aangesloten op de Raspberry Pi en een SSH-verbinding met de Raspberry Pi.
+
+Stap 1: We downloaden de Node-RED Dashboard module en installeren deze. Deze module bevat speciale onderdelen om een dashboard te maken.
+
+Stap 2: We maken een nieuw tabblad in ons dashboard met de naam "Programma's" en een groep genaamd "Vuurpijl". Dit helpt ons om ons dashboard overzichtelijk te houden.
+
+Stap 3: We voegen dashboard nodes toe, zoals een knop om de vuurpijl af te schieten en tekst om aan te geven wat er gaat gebeuren. Nadat we onze flow hebben ingezet, kunnen we ons dashboard bekijken in onze webbrowser.
+
+Met deze stappen kunnen we een dashboard maken waarmee we vanaf onze smartphone een vuurpijl kunnen activeren op de Sense-HAT. Het is een leuke manier om te leren over programmeren en technologieën zoals de Raspberry Pi.
