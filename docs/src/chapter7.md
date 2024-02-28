@@ -96,6 +96,10 @@ sense.clear(1, 1, 1)
 
 Vervang de Python code van vuurpijl.py door de code die staat aan het begin van deze paragraaf, [Stap 2](#Stap-2:-Python-code-vanuit-Node-RED-aanroepen.). Test de code.
 
+## Les 8.
+
+In de volgende les leer je hoe je de vuurpijl afschiet met behulp van de Button-node uit de Dashboard module.
+
 
 ## Samenvatting.
 
