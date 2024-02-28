@@ -48,7 +48,7 @@ Een dashboard kan bestaan uit verschillende tabs. Een tab kan verschillende groe
 
 Een gebruiker kan maar één tab actief hebben. Een tab kan bestaan uit verschillende groepen
 
-Ons dashboard bestaat uit de tab Programs met een groep Programma's.
+Ons dashboard bestaat uit de tab Programma's met een groep Vuurpijl.
 
 
 Opzetten van de structuur.
