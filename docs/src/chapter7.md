@@ -119,13 +119,23 @@ In les 8 leer je hoe je de vuurpijl afschiet met behulp van de button-node (een 
 
 ## Stap 3 - Python code vanuit Node-RED aanroepen.
 
-Het is natuurlijk handiger als je de code vanuit Node-RED zelf kan aanroepen.
+Natuurlijk is het handig als je vanuit Node-RED de Python code kunt gebruiken. Met de "exec"-node kun je programma's op de Raspberry Pi starten, zoals Python-scripts.
 
 |Stap        | Actie      |
 |:---------- | :---------- |
-| 1 |  Sleep daarop de volgende nodes naar je werkblad: timestamp, exec en debug naar je werkblad. Zoek naar de node `exec` met de zoek functie bovenin de linker kolom. Wis het zoeken door op het x te klikken.``\\``![fig_7_2](assets/fig_7_2.png) |
+| 1 |  Sleep daarop de volgende nodes naar je werkblad: inject, exec en debug naar je werkblad. Zoek naar de node `exec` met de zoek functie bovenin de linker kolom. Wis het zoeken door op het x te klikken.``\\``![fig_7_2](assets/fig_7_2.png) |
 | 2 | Verbind de nodes met elkaar. ``\\``![fig_7_3](assets/fig_7_3.png) |
-
+| 3 | Dubbelklik op de exec-node en vul onder command in: `python`. ``\\``![fig_7_4](assets/fig_7_4.png) |
+| 4 | Bepaal het absolute pad naar de folder project/python met het linux commando: `pwd`. ``\\``![fig_7_5](assets/fig_7_5.png) |
+| 5 | Vul het absolute pad in in het veld "append", aangevuld met de naaam van het Python script `vuurpijl.py`, dus: `/home/pi/projects/python/vuurpijl.py`. ``\\``![fig_7_6](assets/fig_7_6.png) |
+| 6 | Klik op het beginpunt van timestamp-node en de vuurpijl wordt afgeschoten. ``\\``![fig_7_7](assets/fig_7_7.png) |
+||
 
 ## Samenvatting.
 
+Les 7 laat zien hoe je op een leuke manier kunt leren programmeren door een vuurpijl te simuleren op je Raspberry Pi met behulp van ChatGPT en Node-RED.
+
+ChatGPT is een slim programma dat computer software kan maken, inclusief Python-code voor de Sense-HAT.
+Je moet geregistreerd zijn bij OpenAI.com om met ChatGPT te werken. Met behulp van ChatGPT kun je verschillende vragen stellen en zelfs code laten genereren, zoals een Python-script voor een vuurpijl. Nadat je de code hebt gegenereerd, kun je deze testen op je Raspberry Pi door via SSH verbinding te maken en de code uit te voeren.
+
+In Node-RED kun je de Python-code gebruiken om de vuurpijl te simuleren op de Sense-HAT door de "exec"-node te gebruiken.
