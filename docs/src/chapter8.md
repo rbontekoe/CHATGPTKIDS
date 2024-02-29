@@ -35,9 +35,9 @@ Node-RED heeft al veel verschillende knooppunten om te gebruiken, maar soms wil 
 |Stap        | Actie      |
 |:---------- | :---------- |
 | 1 | Als je naar "Manage Palette" wilt gaan, kun je op het menu klikken dat in de rechterbovenhoek van het scherm staat. Of je kunt de toetsen Shift + Alt + P indrukken. |
-| 2 | Ga naar de "Install" tab en zoek naar `node-red-dashboard` in de zoekbalk.  |
-| 3 | Als je de dashboard onderdelen wilt krijgen, moet je op de witte knop met "Install" erop klikken. ``\\``![fig_8_2](assets/fig_8_2.png) |
-| 4 | Je ziet een berichtje op je scherm. Druk op de rode knop waar "Install" op staat om de dashboard onderdelen te krijgen. ``\\``![fig_8_3](assets/fig_8_3.png) |
+| 2 | Ga naar de "Install" tab en zoek naar `node-red-dashboard` in de zoekbalk.  ``\\``![fig_8_3](assets/fig_8_3.png)|
+| 3 | Als je de dashboard onderdelen wilt krijgen, moet je op de witte knop met "Install" erop klikken.|
+| 4 | Je ziet een berichtje op je scherm. Druk op de rode knop waar "Install" op staat om de dashboard onderdelen te krijgen. ``\\``![fig_8_2](assets/fig_8_2.png)   |
 | 5 | Klik op de toets "Close". |
 | 6 | Als je de dashboard onderdelen hebt geïnstalleerd, kun je ze vinden in het linkerkolom onder het kopje "dashboard". ``\\``![fig_8_4](assets/fig_8_4.png) |
 ||
@@ -67,7 +67,7 @@ Opzetten van de structuur.
 
 ## Stap 3 - De dashboard nodes toevoegen.
 
-Als je het adres `IP_adres_raspberry_pi:1880/ui` intypt in je web browser, zul je de daskboard nodes zien die je toegevoegd heb aan je dashboard menu".
+Als je het adres `IP_adres_raspberry_pi:1880/ui` intypt in je web browser, zul je de dashboard nodes zien die je toegevoegd heb aan je dashboard menu".
 
 Volg deze stappen om het werk te doen:
  

@@ -22,11 +22,9 @@ Stap 2: Python code vanuit Node-RED aanroepen.
 
 ## Stap 1: ChatGPT Python software laten genereren.
 
-ChatGPT is een genertief AI (Artificial Intelligent = Kunstmatige Intelligentie) programma dat ook computer software kan genereren. Zie ook de inleiding, waar ChatGPT zelf uitlegt wat het kan doen voor jou.
+ChatGPT is een genertief AI (Artificial Intelligent = Kunstmatige Intelligentie) programma dat ook computer software kan genereren. Zie ook de inleiding, waar [ChatGPT](../index.html#Wat-is-ChatGPT?) zelf uitlegt wat het kan doen voor jou.
 
 Het blijkt dat het ook Python code voor de Sense-HAT genereren. Je moet wel geregistreerd staan bij OpenAI.com om met ChatGPT te mogen werken. Momenteel is versie 3.5 nog gratis. Dit is de versie die we in de cursus gaan gebruiken. Je werkt vanuit een webbrouwser.
-
-https://openai.com/
 
 |Stap        | Actie      |
 |:---------- | :---------- |
@@ -40,22 +38,39 @@ https://openai.com/
 | 8 | Experimnteer verder, vraag bijvoorbeeld: Wat kun je doen met de sense-hat? |
 ||
 
-In principe begin je meet een eenvoudige vraag, die je steeds verder uitwerkt, bijvoorbeeld:
+In principe begin je met een eenvoudige vraag, die je steeds verder uitwerkt, bijvoorbeeld:
 
-v1. schrijf de Python code voor een vuurpijl voor de sense-HAT.
+v1: Schrijf de Python code voor een vuurpijl voor de sense-HAT.
 
-Test je code
+Test vervolgens je code:
 1. Open een terminal op je laptop en type: ssh pi@192.168.2.15. Gebruik bij de CoderDojo het wachtwoord: `r7P94%B&`.
 2. Typ: `cd projects/python`.
 3. Typ: `nano vuurpijl.py`.
-4. Plak de code van ChatGPT in de editor.
+4. Plak de code van ChatGPT in de editor met: Ctrl+Shift+V.
 5. Bewaar het bestand met: Ctrl+O.
 6. Verlaat de editor met: Ctrl+X.
 7. Typ: `python vuurpijl.py`.
+8. Stop de code met: Ctrl+C.
+
+v2: Pas de code aan zodat de vuurpijl maar 1 keer wordt afgechoten.
+
+Test de code nogmaals:
+1. Typ: `nano vuurpijl.py`.
+2. Wis alle regels met: Ctrl+K.
+3. Plak de code van ChatGPT in de editor met: Ctrl+Shift+V.
+4. Bewaar het bestand met: Ctrl+O.
+5. Verlaat de editor met: Ctrl+X.
+6. Typ: `python vuurpijl.py`.
+
+v3. Pas de code aan zodat de explosie gedurende 15 seconden uit een grote hoeveelheid van willekeurige pixels bestaat.
+
+Test de code nogmaals.
+
+Enzovoort, totdat je tevreden bent.
 
 ## Stap 2: Python code vanuit Node-RED aanroepen.
 
-Resultaat Python code docent, waar ik wel het nodige aan heb moeten sleutelen:
+Resultaat Python code docent, waar hij wel het nodige aan heeft moeten sleutelen:
 
 ```
 from sense_hat import SenseHat
@@ -98,7 +113,7 @@ Vervang de Python code van vuurpijl.py door de code die staat aan het begin van 
 
 ## Les 8.
 
-In de volgende les leer je hoe je de vuurpijl afschiet met behulp van de Button-node uit de Dashboard module.
+In les 8 leer je hoe je de vuurpijl afschiet met behulp van de button-node (een toets waarop je kunt klikken die op je scherm staat van je bijvoorbeeld je smartphone) uit de Dashboard module.
 
 
 ## Samenvatting.
