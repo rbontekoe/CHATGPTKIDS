@@ -1,4 +1,4 @@
-# Je derde applicatie: Vuurpijl afschieten".
+# Je derde applicatie: Vuurpijl afschieten.
 
 *ChatGPT kan Python code voor je genereren. We laten zien hoe je een vuurpijl simuleert op de Sense-HAT.*
 
