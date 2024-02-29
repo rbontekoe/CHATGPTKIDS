@@ -123,7 +123,7 @@ Het is natuurlijk handiger als je de code vanuit Node-RED zelf kan aanroepen.
 
 |Stap        | Actie      |
 |:---------- | :---------- |
-| 1 |  Sleep daarop de volgende nodes naar je werkblad: timestamp, exec en debug naar je werkblad. Zoek naar de node `exec` met de zoek functie bovenin de linker kolom. ``\\``![fig_7_2](assets/fig_7_2.png) |
+| 1 |  Sleep daarop de volgende nodes naar je werkblad: timestamp, exec en debug naar je werkblad. Zoek naar de node `exec` met de zoek functie bovenin de linker kolom. Wis het zoeken door op het x te klikken.``\\``![fig_7_2](assets/fig_7_2.png) |
 | 2 | Verbind de nodes met elkaar. ``\\``![fig_7_3](assets/fig_7_3.png) |
 
 
