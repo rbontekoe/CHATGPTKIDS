@@ -45,7 +45,7 @@ Stap 4: Werk de Raspberry Pi bij.
 |:---------- | :---------- |
 | 1 | Doe het Micro SD-kaartje in de kaarthouder. |
 | 3 | Doe de kaarthouder in je laptop. |
-| 4 | Start het programma Imager. ``\\``![fig_1_1](assets/fig_1_1.png) |
+| 4 | Start het programma Imager. ``\\``![fig_1_1](assets/fig_1_2.png) |
 | 5 | Druk op de eerste knop **CHOOSE DEVICE** en kies Raspberry Pi 4|
 | 6 | Druk op de tweede knop **CHOOSE OS**. |
 | 7 | Kies **Raspberry Pi OS (other)**. |
