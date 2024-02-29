@@ -2,6 +2,8 @@
 
 *In deze les maak je gebruik van een website die via een API te benaderen is.*
 
+![fig_6_2](assets/fig_6_2.png)
+
 ### Inhoud.
 
 ```@contents
