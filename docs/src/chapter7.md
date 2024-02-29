@@ -70,7 +70,7 @@ Test de code nogmaals.
 
 Enzovoort, totdat je tevreden bent.
 
-## Stap 2: Python code vanuit Node-RED aanroepen.
+## Stap 2: Vervang de Python code door die van de docent.
 
 Resultaat Python code docent, waar hij wel het nodige aan heeft moeten sleutelen:
 
