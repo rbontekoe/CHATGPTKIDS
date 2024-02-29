@@ -46,27 +46,23 @@ Stap 4: Werk de Raspberry Pi bij.
 | 1 | Doe het Micro SD-kaartje in de kaarthouder. |
 | 3 | Doe de kaarthouder in je laptop. |
 | 4 | Start het programma Imager. ``\\``![fig_1_1](assets/fig_1_2.png) |
-| 5 | Druk op de eerste knop **CHOOSE DEVICE** en kies Raspberry Pi 4|
-| 6 | Druk op de tweede knop **CHOOSE OS**. |
-| 7 | Kies **Raspberry Pi OS (other)**. |
-| 8 | Kies **Raspberry Pi OS Lite (64-bit)**. |
-| 8 | Druk op de derde knop **CHOOSE STORAGE**
-| 8 | Kies **Internal SD card Reader (bootfs, rootfs)** |
-| 9 | We gaan naar een plek waar we kunnen veranderen hoe onze computer werkt. We komen daar door op een knop met de tekst **NEXT** erop te drukken. Daar kunnen we bijvoorbeeld WiFi instellen, de naam van onze computer veranderen en een wachtwoord instellen zodat we vanaf een andere plek op onze computer kunnen werken. ``\\``![fig_1_2](assets/fig_1_2.png) |
-| 10 | Druk op de knop **NEXT** (rechts onderin). ``\\``![fig_1_4](assets/fig_1_4.png)erin). ``\\``![fig_1_4](assets/fig_1_4.png)|
-| 11 | Druk op de toets **YES**. ``\\``![fig_1_3](assets/fig_1_3.png) |
-| 12 | Druk op de toets **YES**. ``\\``![fig_1_4](assets/fig_1_4.png) |
-| 13 | Vul je wachtwoord van je PC in en klik op **Authenticate**. ``\\``![fig_1_5](assets/fig_1_5.png) |
-| 14 | Klik op het keuzevakje dat voor 'Set hostname' en verander de naam in 'raspi-1'. In stap 23 kun je ook zien wat je zou moeten invullen. |
-| 15 | Klik op het keuzevakje dat voor 'Set username and password' staat. |
-| 16 | Verander de naam in: `pi`. |
-| 17 | En geef een wachtwoord op. Noteer het wachtwoord op een papiertje voor het geval je het vergeet. |
-| 18 | Klik op het keuze vakje 'Configure wireless LAN' |
-| 19 | Vul de gegevens van je Wifi in en geef als 'wireless LAN country op': NL. |
-| 20 | Klik op het keuzevakje 'Show password' en controleer of het juist is. |
-| 21 | Klik op het keuze vakje 'Set locale settings'. |
-| 22 | Geef als 'Time zone' op: Europe/Amsterdam. |
-| 23 | Geef je 'Keyboard layout' op, bijvoorbeeld us. Dit is het USB toetsenbord dat je eventueel aansluit op je Raspberry Pi. Het dialoogvenster ziet er als volgt uit: ``\\``![fig_1_6](assets/fig_1_6.png) |
+| 5 | Druk op de eerste knop **Raspberry Pi device** en kies Raspberry Pi 4|
+| 6 | Druk op de tweede knop **Operating System** en kies: Raspberry Pi OS Lite (64-bit) |
+| 7 | Druk op de derde knop **Storage** en kies Internal SD card Reader (bootfs, rootfs) |
+| 8 | We gaan naar een plek waar we kunnen veranderen hoe onze computer werkt. Daar kunnen we bijvoorbeeld WiFi instellen, de naam van onze computer veranderen en een wachtwoord instellen zodat we vanaf een andere plek op onze computer kunnen werken. ``\\``![fig_1_2](assets/fig_1_2.png) |
+| 9 | Druk op de knop **NEXT** (rechts onderin) en kies voor YES. ``\\``![fig_1_4_1](assets/fig_1_4_1.png) erin. |
+| 10 | Je krijgt een waarschuwing dat je alles kwijt raakt. Druk op de toets **YES**. ``\\``![fig_1_4](assets/fig_1_4.png) |
+| 11 | Vul je wachtwoord van je PC in en klik op **Authenticate**. ``\\``![fig_1_5](assets/fig_1_5.png) |
+| 12 | Klik op het keuzevakje dat voor 'Set hostname' en verander de naam in 'raspi-1'. In stap 23 kun je ook zien wat je zou moeten invullen. |
+| 13 | Klik op het keuzevakje dat voor 'Set username and password' staat. |
+| 14 | Verander de naam in: `pi`. |
+| 15 | En geef een wachtwoord op. Noteer het wachtwoord op een papiertje voor het geval je het vergeet. |
+| 16 | Klik op het keuze vakje 'Configure wireless LAN' |
+| 17 | Vul de gegevens van je Wifi in en geef als 'wireless LAN country op': NL. |
+| 18 | Klik op het keuzevakje 'Show password' en controleer of het juist is. |
+| 19 | Klik op het keuze vakje 'Set locale settings'. |
+| 20 | Geef als 'Time zone' op: Europe/Amsterdam. |
+| 21 | Geef je 'Keyboard layout' op, bijvoorbeeld us. Dit is het USB toetsenbord dat je eventueel aansluit op je Raspberry Pi. Het dialoogvenster ziet er als volgt uit: ``\\``![fig_1_6](assets/fig_1_6.png) |
 | 24 | Klik bovenin het dialoogvenster op **SERVICE**. Hier vermeld dat je de Raspberry pi vanuit een andere computer wilt benaderen. Vul het in volgens het volgende plaatje: ``\\``![fig_1_7](assets/fig_1_7.png) |
 | 25 | Druk op de **SAVE** toets om de gegevens te bewaren. 
 | 26 | Haal de kaarthouder met de Micro SD kaart uit je computer. |
