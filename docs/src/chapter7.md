@@ -138,4 +138,4 @@ Les 7 laat zien hoe je op een leuke manier kunt leren programmeren door een vuur
 ChatGPT is een slim programma dat computer software kan maken, inclusief Python-code voor de Sense-HAT.
 Je moet geregistreerd zijn bij OpenAI.com om met ChatGPT te werken. Met behulp van ChatGPT kun je verschillende vragen stellen en zelfs code laten genereren, zoals een Python-script voor een vuurpijl. Nadat je de code hebt gegenereerd, kun je deze testen op je Raspberry Pi door via SSH verbinding te maken en de code uit te voeren.
 
-In Node-RED kun je de Python-code gebruiken om de vuurpijl te simuleren op de Sense-HAT door de "exec"-node te gebruiken.
+In Node-RED kun je de Python-code gebruiken om de vuurpijl te simuleren op de Sense-HAT door de "exec"-node te gebruiken.S
