@@ -44,6 +44,7 @@ Met "http in" vertel je hoe mensen naar een specifieke pagina op je website kunn
 6. Klik op de knop "Deploy" boven aan rechts om de code te maken voor je website.
 
    ![fig_5_3](assets/fig_5_3.png)
+   
 7. Typ in de zoekbalk van je internet browser: `IP_adres_Raspberry_Pi:1880/hallo`. Als alles goed is gegaan, zie je 'Hallo wereld!' in vette letters verschijnen op het scherm. Ik heb in het voorbeeld hieronder nog wat extra tekst toegevoegd die ik zet tussen de <p>...</p> tags het gezet.
     
    ![fig_5_4](assets/fig_5_4.png)
