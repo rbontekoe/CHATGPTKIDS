@@ -18,7 +18,9 @@ Pages = ["chapter7.md"]
 
 Stap 1: ChatGPT Python software laten genereren.
 
-Stap 2: Python code vanuit Node-RED aanroepen.
+Stap 2: Vervang de Python code door die van de docent.
+
+Stap 3: Python code vanuit Node-RED aanroepen.
 
 ## Stap 1: ChatGPT Python software laten genereren.
 
@@ -30,7 +32,7 @@ Het blijkt dat het ook Python code voor de Sense-HAT genereren. Je moet wel gere
 |:---------- | :---------- |
 | 1 | Open je browser. |
 | 2 | Type: https://openai.com/ in de adresbalk. |
-| 3 | Klik rechtsboven op de toets: Try ChatGPT. |
+| 3 | Klik rechtsboven op de toets: Try ChatGPT. ``\\``![ig_7_1](assets/fig_7_1.png) |
 | 4 | Vermoedlijk wordt er gevraagd om in te loggen. Registreer jezelf eerst. Het makkelijkste is het als je al een Google account hebt. |
 | 5 | Klik links boven op: New Chat. |
 | 6 | Stel een vraag in het boxje onderaan in het midden, bijvoorbeeld: Wie heeft het programma Python ontwikkeld? |
@@ -62,7 +64,7 @@ Test de code nogmaals:
 5. Verlaat de editor met: Ctrl+X.
 6. Typ: `python vuurpijl.py`.
 
-v3. Pas de code aan zodat de explosie gedurende 15 seconden uit een grote hoeveelheid van willekeurige pixels bestaat.
+v3. Pas de code aan zodat de explosie gedurende 15 seconden uit 30 willekeurige pixels bestaat.
 
 Test de code nogmaals.
 
@@ -111,9 +113,18 @@ sense.clear(1, 1, 1)
 
 Vervang de Python code van vuurpijl.py door de code die staat aan het begin van deze paragraaf, [Stap 2](#Stap-2:-Python-code-vanuit-Node-RED-aanroepen.). Test de code.
 
-## Les 8.
+###### Les 8.
 
 In les 8 leer je hoe je de vuurpijl afschiet met behulp van de button-node (een toets waarop je kunt klikken die op je scherm staat van je bijvoorbeeld je smartphone) uit de Dashboard module.
+
+## Stap 3 - Python code vanuit Node-RED aanroepen.
+
+Het is natuurlijk handiger als je de code vanuit Node-RED zelf kan aanroepen.
+
+|Stap        | Actie      |
+|:---------- | :---------- |
+| 1 |  Sleep daarop de volgende nodes naar je werkblad: timestamp, exec en debug naar je werkblad. Zoek naar de node `exec` met de zoek functie bovenin de linker kolom. ``\\``![fig_7_2](assets/fig_7_2.png) |
+| 2 | Verbind de nodes met elkaar. ``\\``![fig_7_3](assets/fig_7_3.png) |
 
 
 ## Samenvatting.
