@@ -34,13 +34,14 @@ Het commando om Node-RED te installeren is: `bash <(curl -sL https://raw.githubu
 | 3 | Typ: `y`. ``\\``![fig_4_2](assets/fig_4_2.png) |
 | 4 | Wacht totdat alle programma's geinstallerd zijn. ``\\``![fig_4_3](assets/fig_4_3.png) |
 | 5 | Druk op Enter. ``\\``![fig_4_4](assets/fig_4_4.png) |
-| 6 | Kies No. ``\\``![fig_4_5](assets/fig_4_5.png) |
-| 7 | Druk op Enter. ``\\``![fig_4_6](assets/fig_4_6.png) |
-| 8 | Druk op Enter. ``\\``![fig_4_7](assets/fig_4_7.png) |
-| 9 | Druk op Enter. ``\\``![fig_4_8](assets/fig_4_8.png) |
-| 10 | Druk op Enter. ``\\``![fig_4_9](assets/fig_4_9.png) |
-| 11 | Kies `yes`. ``\\``![fig_4_10](assets/fig_4_10.png) |
-| 12 | Typ: `sudo reboot`.
+| 6 | Kies `No`. ``\\``![fig_4_11](assets/fig_4_11.png) |
+| 7 | Kies `No`. ``\\``![fig_4_5](assets/fig_4_5.png) |
+| 8 | Druk op Enter. ``\\``![fig_4_6](assets/fig_4_6.png) |
+| 9 | Druk op Enter. ``\\``![fig_4_7](assets/fig_4_7.png) |
+| 10 | Druk op Enter. ``\\``![fig_4_8](assets/fig_4_8.png) |
+| 11 | Druk op Enter. ``\\``![fig_4_9](assets/fig_4_9.png) |
+| 12 | Kies `Yes`. ``\\``![fig_4_10](assets/fig_4_10.png) |
+| 13 | Typ: `sudo reboot`.
 ||
 
 Zie ook het document [Running on Raspberry Pi](https://nodered.org/docs/getting-started/raspberrypi).
