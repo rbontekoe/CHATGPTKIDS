@@ -53,7 +53,7 @@ Stap 4: Werk de Raspberry Pi bij.
 | 9 | Druk op de knop **NEXT** (rechts onderin) en kies voor YES. ``\\``![fig_1_4_1](assets/fig_1_4_1.png) erin. |
 | 10 | Je krijgt een waarschuwing dat je alles kwijt raakt. Druk op de toets **YES**. ``\\``![fig_1_4](assets/fig_1_4.png) |
 | 11 | Vul je wachtwoord van je PC in en klik op **Authenticate**. ``\\``![fig_1_5](assets/fig_1_5.png) |
-| 12 | Klik op het keuzevakje dat voor 'Set hostname' en verander de naam in 'raspi-1'. In stap 23 kun je ook zien wat je zou moeten invullen. |
+| 12 | Klik op het keuzevakje dat voor 'Set hostname' en verander de naam in 'raspi-1'. In stap 21 kun je ook zien wat je zou moeten invullen. |
 | 13 | Klik op het keuzevakje dat voor 'Set username and password' staat. |
 | 14 | Verander de naam in: `pi`. |
 | 15 | En geef een wachtwoord op. Noteer het wachtwoord op een papiertje voor het geval je het vergeet. |
@@ -63,10 +63,10 @@ Stap 4: Werk de Raspberry Pi bij.
 | 19 | Klik op het keuze vakje 'Set locale settings'. |
 | 20 | Geef als 'Time zone' op: Europe/Amsterdam. |
 | 21 | Geef je 'Keyboard layout' op, bijvoorbeeld us. Dit is het USB toetsenbord dat je eventueel aansluit op je Raspberry Pi. Het dialoogvenster ziet er als volgt uit: ``\\``![fig_1_6](assets/fig_1_6.png) |
-| 24 | Klik bovenin het dialoogvenster op **SERVICE**. Hier vermeld dat je de Raspberry pi vanuit een andere computer wilt benaderen. Vul het in volgens het volgende plaatje: ``\\``![fig_1_7](assets/fig_1_7.png) |
-| 25 | Druk op de **SAVE** toets om de gegevens te bewaren. 
-| 26 | Haal de kaarthouder met de Micro SD kaart uit je computer. |
-| 27 | Stop het SD kaartje in je Raspberry Pi en sluit de USB-C voeding aan. |
+| 22 | Klik bovenin het dialoogvenster op **SERVICE**. Hier vermeld dat je de Raspberry pi vanuit een andere computer wilt benaderen. Vul het in volgens het volgende plaatje: ``\\``![fig_1_7](assets/fig_1_7.png) |
+| 23 | Druk op de **SAVE** toets om de gegevens te bewaren. 
+| 24 | Haal de kaarthouder met de Micro SD kaart uit je computer. |
+| 25 | Stop het SD kaartje in je Raspberry Pi en sluit de USB-C voeding aan. |
 ||
 
 !!! info "Belangrijke veranderingen in het Imager programma"
@@ -84,6 +84,15 @@ Stap 4: Werk de Raspberry Pi bij.
 | 5 | Druk op de Enter-toets. |
 ||
 
+!!! info "Al eens eerder ssh gebruikt?"
+    
+    Als je al eerder met ssh hebt ingelogd, dan staat dat IP-adres met zijn sleutel al in je computer. Als je dan "yes" intikt, kan er een foutmelding verschijnen en moet je eerst de oude sleutel verwijderen. Het commando ziet er zo uit:
+
+    `sh-keygen -f "/home/rob/.ssh/known_hosts" -R "<oude IP-adres>"`
+
+    Kopieer het command met: Ctrl+Shift+C of verlicht het, druk op je rechtermuis en kies Copy uit het menu. Plak het terug met: Ctrl+Shift+V of druk op je rechter muistoets en kies Paste uit het menu.
+
+    De Rasperry Pi verlaat je met: Ctrl+D.
 
 ## Stap 4 - Werk de Raspberry Pi bij.
 
