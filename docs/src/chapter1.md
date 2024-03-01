@@ -92,13 +92,16 @@ Stap 4: Werk de Raspberry Pi bij.
 
     Kopieer het command met: Ctrl+Shift+C of verlicht het, druk op je rechtermuis en kies Copy uit het menu. Plak het terug met: Ctrl+Shift+V of druk op je rechter muistoets en kies Paste uit het menu.
 
-    De Rasperry Pi verlaat je met: Ctrl+D.
+    De Rasperry Pi verlaat je met: Ctrl+D. Heb je al een commando hebt ingetikt dan verlaat je het met: Ctrl+C.
 
 ## Stap 4 - Werk de Raspberry Pi bij.
 
 |Stap        | Actie      |
 |:---------- | :---------- |
-| 1 | Tik: `sudo apt update && sudo apt full-upgrade`. Het zijn twee Linux commando's die uitgevoerd worden: update en full-upgrade. `sudo` heb je nodig om voldoende rechten te krijgen om de commando's uitvoeren; er wordt om je wachtwoord van de Raspberry Pi gevraagd om te controleren of je het recht hebt de commando's uit te laten voeren. `apt` is de package manager, een programma waarmee je software pakketen kunt downloaden en updaten. Met `&&` koppel je de twee commando's. |
+| 1 | Tik: `sudo apt update && sudo apt full-upgrade -y`. Het zijn twee Linux commando's die uitgevoerd worden: update en full-upgrade. `sudo` heb je nodig om voldoende rechten te krijgen om de commando's uitvoeren; er wordt om je wachtwoord van de Raspberry Pi gevraagd om te controleren of je het recht hebt de commando's uit te laten voeren. `apt` is de package manager, een programma waarmee je software pakketen kunt downloaden en updaten. Met `&&` koppel je de twee commando's. |
+| 2 | Verwijder oude troep met: `sudo apt autoremove`. |
+| 3 | Start de Raspberry Pi opnieuw met: `sudo reboot`. |
+| 4 | Log opnieuw in met "ssh". |
 ||
 
 ## Samenvatting.

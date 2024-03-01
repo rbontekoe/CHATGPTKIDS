@@ -10,8 +10,8 @@ Pages = ["chapter5.md"]
 
 ## Wat je nodig hebt
 
-- Een Raspberry Pi 3B+ met het besturingssysteem Ubuntu Server 22.04.
-- Docker, Portainer en Node-RED zijn geinstalleerd.
+- Een Raspberry Pi 3B+ met het besturingssysteem Raspberry Pi Lite.
+- Node-RED is geïnstalleerd.
 
 ## Wat je gaat doen
 
