@@ -92,7 +92,7 @@ Dus dit stuk code bevat informatie over de status van een bepaalde actie en een 
 
 7. Test het resultaat in de browser: `IP_adres_raspberry_pi:1880/toon`.
 
-8. Als je de link ververst zie je staads een andere hond.
+8. Als je de link ververst zie je steeds een andere hond.
 
 ## Stap 2: Website personaliseren.
 
@@ -147,11 +147,11 @@ Web Responsive Design (WRD) betekent dat je website op elk apparaat, zoals je co
 
 ## Stap 3: Anderen van je website laten genieten.
 
-Aan het eind van de les zul je je applicatie aan je medestudenten moeten laten zien. Dat is zonder meer mogelijk ondat ze allemaal een computer hebben die aangesloten is op hetzelfde WiFi netwerk.
+Aan het eind van de les zul je je applicatie aan je medestudenten moeten laten zien. Dat is zonder meer mogelijk omdat ze allemaal een computer hebben die aangesloten is op hetzelfde WiFi netwerk.
 
 Sommigen zullen het misschien ook op hun Smartphone willen bekijken. Vraag aan je docent wat de naam van het netwerk is en wat de inlogcode is.
 
-## Samenvattng.
+## Samenvatting.
 
 Deze les gaat over het maken van een speciale app. We willen plaatjes van honden laten zien! We gebruiken een speciale website om deze plaatjes te krijgen.
 
