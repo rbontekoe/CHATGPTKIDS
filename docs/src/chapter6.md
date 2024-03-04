@@ -63,7 +63,7 @@ Dus dit stuk code bevat informatie over de status van een bepaalde actie en een 
 
 4. Voer de volgende webadres in bij het invoerveld 'http in': `/toon`.
 
-5. Geef het webadres voor een foto van een hond op: `https://dog.ceo/api/breeds/image/random`. Stel "**<-**Return" in op "a parsed JSON object".
+5. Geef in het webadres voor een foto van een hond op: `https://dog.ceo/api/breeds/image/random`. Stel "**<-**Return" in op "a parsed JSON object".
 
 6. Je krijgt een plaatje van een willekeurige hond te zien met de HTML code: `<img src="{{payload}}.message">`.
 
@@ -91,6 +91,8 @@ Dus dit stuk code bevat informatie over de status van een bepaalde actie en een 
    Klik [hier voor een lijst met API's](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/).
 
 7. Test het resultaat in de browser: `IP_adres_raspberry_pi:1880/toon`.
+
+8. Als je de link ververst zie je staads een andere hond.
 
 ## Stap 2: Website personaliseren.
 
