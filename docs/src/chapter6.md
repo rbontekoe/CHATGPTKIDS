@@ -138,7 +138,7 @@ Web Responsive Design (WRD) betekent dat je website op elk apparaat, zoals je co
 
 3. Test de website op je computer door het venster van de browser smaller te maken: `IP_adres_raspberry_pi:1880/toon`.
    
-   ![Mijn Eerste Honden Pagina](assets/hs.jpg)
+   ![Mijn Eerste Honden Pagina](assets/fig_6_2.png)
 
 !!! info
     Een vast IP-adres op wifi is zoals een huisadres voor je apparaat. Het is uniek en zorgt ervoor dat je apparaat altijd hetzelfde adres heeft wanneer het aan het wifi-netwerk is verbonden. Dit maakt het makkelijker voor andere apparaten om contact met jouw apparaat te maken.

@@ -115,7 +115,7 @@ Vervang de Python code van vuurpijl.py door de code die staat aan het begin van 
 
 ###### Les 8.
 
-In les 8 leer je hoe je de vuurpijl afschiet met behulp van de button-node (een toets waarop je kunt klikken die op je scherm staat van je bijvoorbeeld je smartphone) uit de Dashboard module.
+In les 8 leer je hoe je de vuurpijl afschiet met behulp van de button-node (een toets waarop je kunt klikken die op je scherm staat van bijvoorbeeld je smartphone) uit de Dashboard module.
 
 ## Stap 3 - Python code vanuit Node-RED aanroepen.
 
