@@ -60,7 +60,7 @@ We willen het programma testen. Daarvoor hebben we het programma Python nodig, d
 
 |Stap        | Actie      |
 |:---------- | :---------- |
-| 1 | Maak verbinding met je Raspberry Pi-computer door dit commando te typen: `ssh pi@IP_adres_Raspberry_pi`. Je moet het internetadres van je Raspberry Pi weten, dus kijk in [stap 3 van hoofdstuk 1](../chapter1/index.html#Stap-3-Log-in-op-Raspberry-Pi.) om te zien hoe je dat kunt vinden. |
+| 1 | Maak verbinding met je Raspberry Pi-computer door dit commando te typen: `ssh pi@IP_adres_Raspberry_pi`. Je moet het internetadres van je Raspberry Pi weten, kijk dus in [stap 3 van hoofdstuk 1](../chapter1/index.html#Stap-3-Log-in-op-Raspberry-Pi.) om te zien hoe je dat kunt vinden. |
 | 2 | Start Python op door te typen: `python`. Je kan zien dat je met versie 3.11.2 of hoger werkt.``\\``![fig](assets/fig_3_1.png) | 
 | 3 | Typ: `from sense_hat import SenseHat`. Sluit af door op de Enter-toets te drukken. |
 | 4 | Typ: `sense = SenseHat()` en sluit af met <Enter>. |
