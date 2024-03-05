@@ -2,7 +2,7 @@ using Documenter
 
 makedocs(
     sitename = "CHATGPTKIDS",
-    format = Documenter.HTML(),
+    format = Documenter.HTML(;),
 
     pages = [
         "Inleiding." => "index.md",
