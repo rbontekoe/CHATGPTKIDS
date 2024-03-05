@@ -37,7 +37,7 @@ Om de sense-HAT te kunnen gebruiken zult je eerst de software ervoor moeten inst
 |Stap        | Actie      |
 |:---------- | :---------- |
 | 1 | Maak verbinding met je Raspberry Pi-computer door dit commando te typen: `ssh pi@IP_adres_Raspberry_pi`. Je moet het internetadres van je Raspberry Pi weten, dus kijk in [stap 3 van hoofdstuk 1](../chapter1/index.html#Stap-3-Log-in-op-Raspberry-Pi.)|
-| 2 | Update de software lijst van je Raspberry Pi door `sudo up apt update` in te tkken. Deze stap is altijd noodzakelijk als je nieuwe software wilt installeren. |
+| 2 | Update de software lijst van je Raspberry Pi door `sudo apt update` in te tkken. Deze stap is altijd noodzakelijk als je nieuwe software wilt installeren. |
 | 3 | Werk eventueel de software bij door `sudo apt full-upgrade`in te tikken. Deze stap is niet echt noodzakelijk en kan de nodige tijd kosten. je moet wel geduld hebben. |
 | 4 | Typ: `sudo apt-get install sense-hat` om de software voor de sense-HAT te installeren. |
 | 5 | Typ: `sudo apt autoremove` om oude troep te verwijderen. |
