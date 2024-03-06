@@ -1,6 +1,6 @@
 # Een Vuurpijl activeren vanuit je smartphone.
 
-Deze module geeft je een set knooppunten in [Node-RED](https://flows.nodered.org/node/node-red-dashboard) waarmee je snel een live data dashboard kunt maken.
+Deze les geeft je een set knooppunten in [Node-RED](https://flows.nodered.org/node/node-red-dashboard) waarmee je snel een live data dashboard kunt maken.
 
 Je gaat een dashboard maken dat de volgende dingen laat zien:
 - Een toets, die als je erop drukt de vuurpijl afschiet op de Sense-HAT.
