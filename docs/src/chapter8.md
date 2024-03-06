@@ -5,8 +5,6 @@ Deze module geeft je een set knooppunten in [Node-RED](https://flows.nodered.org
 Je gaat een dashboard maken dat de volgende dingen laat zien:
 - Een toets, die als je erop drukt de vuurpijl afschiet op de Sense-HAT.
 
-![fig_8_1](assets/fig_8_1.png)
-
 ```@raw html
 <img src="assets/fig_8_1.png" alt="Node-RED logo" width="100">
 ```
