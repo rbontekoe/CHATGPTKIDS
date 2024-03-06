@@ -80,7 +80,7 @@ Volg deze stappen om het werk te doen:
 | 5 | Dubbelklik op de text-node en kies ook voor de groep `[Programma's] Vuurpijl`. ``\\``![fig_8_12](assets/fig_8_12.png)|
 | 6 | Klik op de toets `Done'. |
 | 7 | Klik op de Deploy-toets. |
-| 8 | Ga in de browser naar <IP-adres Raspberry Pi>:1880/ui en druk op de Enter toets. |
+| 8 | Ga in de browser naar <IP-adres Raspberry Pi>:1880/ui en druk op de Enter toets.``\\``![Screenprint](assets/fig_8_1.png)|
 ||
 
 ## Samenvatting
