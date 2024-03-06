@@ -6,7 +6,7 @@ Je gaat een dashboard maken dat de volgende dingen laat zien:
 - Een toets, die als je erop drukt de vuurpijl afschiet op de Sense-HAT.
 
 ```@raw html
-<img src="assets/fig_8_1.png" alt="Node-RED logo" width="100">
+<img src="assets/fig_8_1.png" alt="Screenprint Smartphone" width="100">
 ```
 
 ### Inhoud
