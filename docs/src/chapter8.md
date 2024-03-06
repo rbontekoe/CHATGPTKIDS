@@ -7,6 +7,10 @@ Je gaat een dashboard maken dat de volgende dingen laat zien:
 
 ![fig_8_1](assets/fig_8_1.png)
 
+```@raw html
+<img src="assets/fig_8_1.png" alt="Node-RED logo" width="100">
+```
+
 ### Inhoud
 
 ```@contents
