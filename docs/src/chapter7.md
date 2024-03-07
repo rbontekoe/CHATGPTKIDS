@@ -35,7 +35,7 @@ Het blijkt dat het ook Python code voor de Sense-HAT genereren. Je moet wel gere
 | 3 | Klik rechtsboven op de toets: Try ChatGPT. ``\\``![ig_7_1](assets/fig_7_1.png) |
 | 4 | Vermoedlijk wordt er gevraagd om in te loggen. Registreer jezelf eerst. Het makkelijkste is het als je al een Google account hebt. |
 | 5 | Klik links boven op: New Chat. |
-| 6 | Stel een vraag in het boxje onderaan in het midden, bijvoorbeeld: Wie heeft het programma Python ontwikkeld? |
+| 6 | Stel een vraag in het boxje onderaan in het midden, bijvoorbeeld: Wie heeft het programma Python ontwikkeld? ``\\``![fig_7_8](assets/fig_7_8.png) |
 | 7 | Vermoedelijk krijg je het volgende antwoord: Python is ontwikkeld door Guido van Rossum en werd voor het eerst uitgebracht in 1991. Van Rossum is een Nederlands informaticus die Python ontwikkelde als een opvolger van de programmeertaal ABC. Hij leidde het project gedurende vele jaren en had een grote invloed op de ontwikkeling van Python. |
 | 8 | Experimnteer verder, vraag bijvoorbeeld: Wat kun je doen met de sense-hat? |
 ||
