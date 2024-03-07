@@ -1,25 +1,25 @@
-# Je eerste applicatie: een website opzetten
+# Je eerste applicatie: Een website opzetten.
 
 *We gaan een website maken met Node-RED. De website werkt alleen op het wifi-netwerk waar we op zijn aangesloten. Dit betekent dat we de website alleen kunnen bekijken als we met onze computer of telefoon verbonden zijn met het wifi-netwerk. Tijdens het maken van de website leer je ook werken met HTML-code. HTML is een soort taal waarmee we websites kunnen maken.*
 
-### Inhoud
+### Inhoud.
 
 ```@contents
 Pages = ["chapter5.md"]
 ```
 
-## Wat je nodig hebt
+## Wat je nodig hebt.
 
 - Een Raspberry Pi 3B+ met het besturingssysteem Raspberry Pi Lite.
 - Node-RED is geïnstalleerd.
 
-## Wat je gaat doen
+## Wat je gaat doen.
 
 Stap 1: Introductie tot Node-RED en een "Hallo wereld!" voorbeeld.
 
 Stap 2: Personaliseer je website.
 
-## Stap 1: Introductie tot Node-RED en een "Hallo wereld!" voorbeeld
+## Stap 1: Introductie tot Node-RED en een "Hallo wereld!" voorbeeld.
 
 Je hebt 3 knooppunten nodig om een eenvoudige website te maken:
 - http in
@@ -51,7 +51,7 @@ Met "http in" vertel je hoe mensen naar een specifieke pagina op je website kunn
 
 8. Voeg meer tekst toe aan de website door ze tussen de `<p>` en `</p>` tags te zetten.
 
-## Stap 2: Personaliseer je website
+## Stap 2: Personaliseer je website.
 
 Web responsive design (WRD) betekent dat je website op elk apparaat, zoals je computer, tablet of telefoon, er altijd even mooi uitziet en makkelijk te gebruiken is. Het past zichzelf aan de grootte van het scherm aan, zodat je altijd een fijne ervaring hebt, ongeacht op welk apparaat je het bekijkt. [Bootstrap](https://www.w3schools.com/bootstrap/bootstrap_ver.asp) helpt ontwikkelaars hierbij.
 
@@ -104,7 +104,7 @@ Web responsive design (WRD) betekent dat je website op elk apparaat, zoals je co
 
     Om een vast IP-adres te krijgen, moet je naar de instellingen van je wifi-router gaan. Daar moet je de instellingen van je apparaat veranderen zodat het altijd hetzelfde IP-adres krijgt wanneer het aan het wifi-netwerk is verbonden. Als je niet weet hoe dat moet, vraag het dan aan iemand die daar verstand van heeft.
 
-## Samenvatting
+## Samenvatting.
 
 Dit hoofdstuk gaat over het bouwen van een website met Node-RED. Node-RED is een programma waarmee je websites kunt maken en leren hoe HTML-code werkt. De website werkt alleen op het wifi-netwerk waarmee je verbonden bent. Je hebt een Raspberry Pi 4B nodig met het besturingssysteem Raspberry Pi Lite en Node-RED geïnstalleerd. Om een eenvoudige website te maken met Node-RED heb je 3 knooppunten nodig, namelijk "http in", "template" en "http response". Met deze knooppunten maak je een flow die als een soort programma werkt.
 
