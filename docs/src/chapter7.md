@@ -1,6 +1,6 @@
 # Je derde applicatie: Vuurpijl afschieten.
 
-*ChatGPT kan Python code voor je genereren. We laten zien hoe je een vuurpijl simuleert op de Sense-HAT.*
+*Met behulp van ChatGPT kan Python-code voor je worden gegenereerd. We laten zien hoe je een vuurpijl kunt simuleren op de Sense HAT.*
 
 ### Inhoud.
 
@@ -10,7 +10,7 @@ Pages = ["chapter7.md"]
 
 ## Wat je nodig hebt.
 
-- Een Raspberry Pi 34 met het besturingssysteem Rasberry Pi.
+- Een Raspberry Pi 4 met het besturingssysteem Rasberry Pi.
 - Een Sense-HAT ingepluged op de Raspberry Pi.
 - SSH verbinding met de Raspberry Pi.
 
@@ -24,17 +24,17 @@ Stap 3: Python code vanuit Node-RED aanroepen.
 
 ## Stap 1: ChatGPT Python software laten genereren.
 
-ChatGPT is een genertief AI (Artificial Intelligent = Kunstmatige Intelligentie) programma dat ook computer software kan genereren. Zie ook de inleiding, waar [ChatGPT](../index.html#Wat-is-ChatGPT?) zelf uitlegt wat het kan doen voor jou.
+ChatGPT is een genertief AI (Artificial Intelligence = Kunstmatige Intelligentie) programma dat ook computer software kan genereren. Zie ook de inleiding, waar [ChatGPT](../index.html#Wat-is-ChatGPT?) zelf uitlegt wat het kan doen voor jou.
 
-Het blijkt dat het ook Python code voor de Sense-HAT genereren. Je moet wel geregistreerd staan bij OpenAI.com om met ChatGPT te mogen werken. Momenteel is versie 3.5 nog gratis. Dit is de versie die we in de cursus gaan gebruiken. Je werkt vanuit een webbrouwser.
+Het blijkt dat het ook Python code voor de Sense-HAT kan genereren. Je moet wel geregistreerd staan bij OpenAI.com om met ChatGPT te mogen werken. Momenteel is versie 3.5 nog gratis. Dit is de versie die we in de cursus gaan gebruiken. Je werkt vanuit een webbrouwser.
 
 |Stap        | Actie      |
 |:---------- | :---------- |
 | 1 | Open je browser. |
-| 2 | Type: https://openai.com/ in de adresbalk. |
+| 2 | Type: `https://openai.com/` in de adresbalk. |
 | 3 | Klik rechtsboven op de toets: Try ChatGPT. ``\\``![ig_7_1](assets/fig_7_1.png) |
-| 4 | Vermoedlijk wordt er gevraagd om in te loggen. Registreer jezelf eerst. Het makkelijkste is het als je al een Google account hebt. |
-| 5 | Klik links boven op: New Chat. |
+| 4 | Vermoedlijk wordt er gevraagd om in te loggen. Registreer jezelf eerst. |
+| 5 | Klik linksboven in de linkerkolom op: New Chat. |
 | 6 | Stel een vraag in het boxje onderaan in het midden, bijvoorbeeld: Wie heeft het programma Python ontwikkeld? ``\\``![fig_7_8](assets/fig_7_8.png) |
 | 7 | Vermoedelijk krijg je het volgende antwoord: Python is ontwikkeld door Guido van Rossum en werd voor het eerst uitgebracht in 1991. Van Rossum is een Nederlands informaticus die Python ontwikkelde als een opvolger van de programmeertaal ABC. Hij leidde het project gedurende vele jaren en had een grote invloed op de ontwikkeling van Python. |
 | 8 | Experimnteer verder, vraag bijvoorbeeld: Wat kun je doen met de sense-hat? |
@@ -72,7 +72,7 @@ Enzovoort, totdat je tevreden bent.
 
 ## Stap 2: Vervang de Python code door die van de docent.
 
-Resultaat Python code docent, waar hij wel het nodige aan heeft moeten sleutelen:
+Python code van de docent, waar hij wel het nodige aan heeft moeten sleutelen:
 
 ```
 from sense_hat import SenseHat
