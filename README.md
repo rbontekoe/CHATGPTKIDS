@@ -20,13 +20,12 @@ Wat is ChatGPT?
 ### Sectie 2 - Ervaring met Node-RED opdoen:
 5. Je eerste applicatie: een website opzetten.
 
-### Sectie 3 - Ervaring opdoen met API’s
-6. Wat is een API?
-7. Je tweede applicatie: Plaatjes van Honden tonen.
+### Sectie 3 - Werken met API's:
+6. Je tweede applicatie: Plaatjes van Honden tonen.
 
 ### Sectie 4 - ChatGPT als code generator gebruiken:
-8. Python programma maken voor de Sense-HAT.
+7. Je derde applicatie: Vuurpijl afschieten.
 
 ### Sectie 5 - Node-RED Dashboard programma maken:
-9. Een Vuurpijl activeren vanuit je smartphone.
+8. Een Vuurpijl activeren vanuit je smartphone.
 

@@ -23,7 +23,7 @@ makedocs(
             "7 Je derde applicatie: Vuurpijl afschieten." => "chapter7.md"
         ],
         "Sectie 5 - Node-RED Dashboard programma maken" => [
-            "8 Een Vuurpijl activeren vanuit je smartphone" => "chapter8.md"
+            "8 Een Vuurpijl activeren vanuit je smartphone." => "chapter8.md"
         ],
         "Bijlage" => "appendix.md",
         "References" => "references.md"
