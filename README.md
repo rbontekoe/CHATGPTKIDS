@@ -3,13 +3,13 @@
 # CHATGPTKIDS: Leer Node-RED en Sense-HAT programmeren. 
 
 ### Index.html
-Inleiding
-Voor wie is deze cursus bestemd?
-Wat is een Raspberry Pi?
-Wat is een Sense-HAT?
-Wat is Node-RED?
-Wat is Python?
-Wat is ChatGPT?
+- Inleiding
+- Voor wie is deze cursus bestemd?
+- Wat is een Raspberry Pi?
+- Wat is een Sense-HAT?
+- Wat is Node-RED?
+- Wat is Python?
+- Wat is ChatGPT?
 
 ### Sectie 1 - Installatie instructies:
 1. Micro SD-kaartje klaarmaken voor de Raspberry Pi 4B.
