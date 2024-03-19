@@ -13,7 +13,7 @@ In deze cursus laat ik zien hoe je Node-RED programma's kunt maken die draaien o
 
 De lessen in de cursus gaan uit van een complete Raspberry Pi 4B met de Sense-HAT, waar al software al opstaat, zodat je meteen kunt beginnen met een les. Voor de volledigheid laat ik in les 1 t/m 4 zien hoe je het Raspberry Pi besturingssysteem op een SD-kaartje zet, zodat je thuis de cursus ook kunt volgen.
 
-Je leert eerst kennismaken met de Node-RED programmeer omgeving. Je eerste project is een website maken. Later maak je ook kennis met de Dashboard knooppunten (ook wel nodes genoemd). Het voordeel van het Dashboard is dat als de data verandert het ook meteen zichtbaaar is op een applicatie die je bijvoorbeeld via je smartphone bekijkt.
+Je leert eerst kennismaken met de Node-RED programmeer omgeving. Je eerste project is een website maken. Later maak je ook kennis met de Dashboard knooppunten. Knooppunten worden ook wel nodes genoemd. Het voordeel van het Dashboard is dat als de data verandert het ook meteen zichtbaaar is op een applicatie die je bijvoorbeeld via je smartphone bekijkt.
 
 Ik werk graag met Node-RED. Dit is een programma waarmee we grafisch onze programma's kunnen opbouwen. Het is vergelijkbaar met programma's voor de BBC Micro-bit. Op YouTube zijn heel veel [instructie-videos](https://www.youtube.com/channel/UCQaB8NXBEPod7Ab8PPCLLAA) te vinden over Node-RED.
 
