@@ -7,7 +7,7 @@
 
 ## Inleiding.
 
-Ik werk mee aan [CoderDojo](https://www.leusdenzet.nl/techlab/coderdojo/) evenementen voor kinderen bij het Technisch Lab van LeusdenZet, door het maken van online cursusmateriaal.
+Ik werk mee aan [CoderDojo](https://www.leusdenzet.nl/techlab/coderdojo/) evenementen voor kinderen bij het Technisch Lab van LeusdenZeT, door het maken van online cursusmateriaal.
 
 In deze cursus laat ik zien hoe je Node-RED programma's kunt maken die draaien op een Raspberry Pi 4B samen met de Sense-HAT.
 
