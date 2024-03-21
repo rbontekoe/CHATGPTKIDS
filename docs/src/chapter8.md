@@ -15,7 +15,134 @@ Pages = ["chapter8.md"]
 - Een Raspberry Pi 4B met het besturingssysteem Raspberry Pi Lite.
 - Een Sense-HAT ingepluged op de Raspberry Pi.
 - SSH verbinding met de Raspberry Pi.
-- Les 7: Je derde applicatie: Vuurpijl afschieten".
+- Les 7: Je derde applicatie: Vuurpijl afschieten". Als je die niet hebt importeer dan de volgende code:
+
+```
+[
+    {
+        "id": "2dba2ca7560b6d59",
+        "type": "tab",
+        "label": "Je derde applicatie",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "68522fbc453d124e",
+        "type": "inject",
+        "z": "2dba2ca7560b6d59",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 120,
+        "y": 120,
+        "wires": [
+            [
+                "8098d151b9391bed"
+            ]
+        ]
+    },
+    {
+        "id": "8098d151b9391bed",
+        "type": "exec",
+        "z": "2dba2ca7560b6d59",
+        "command": "python",
+        "addpay": "",
+        "append": "/home/pi/projects/python/vuurpijl.py",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "",
+        "x": 310,
+        "y": 120,
+        "wires": [
+            [
+                "089c7d2ebe4fc906"
+            ],
+            [
+                "dc6a852817df76ba"
+            ],
+            [
+                "fdcbda5f4ce040c9"
+            ]
+        ]
+    },
+    {
+        "id": "089c7d2ebe4fc906",
+        "type": "debug",
+        "z": "2dba2ca7560b6d59",
+        "name": "debug 8",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 520,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "1eb61e56a864a31c",
+        "type": "comment",
+        "z": "2dba2ca7560b6d59",
+        "name": "Je derde applicatie: Vuurpijl afschieten.",
+        "info": "",
+        "x": 210,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "dc6a852817df76ba",
+        "type": "debug",
+        "z": "2dba2ca7560b6d59",
+        "name": "debug 9",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 520,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "fdcbda5f4ce040c9",
+        "type": "debug",
+        "z": "2dba2ca7560b6d59",
+        "name": "debug 10",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 520,
+        "y": 160,
+        "wires": []
+    }
+]
+```
 
 ## Wat je gaat doen
 
