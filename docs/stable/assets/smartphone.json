@@ -1,0 +1,105 @@
+[
+    {
+        "id": "ef13bd7f18bd8a10",
+        "type": "tab",
+        "label": "Smartphone",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "3d31240964aa8f6f",
+        "type": "ui_button",
+        "z": "ef13bd7f18bd8a10",
+        "name": "",
+        "group": "90fbf9434e65a502",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "button",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "Ik schiet nu een vuurpijl af.",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 110,
+        "y": 100,
+        "wires": [
+            [
+                "3b482483977db865"
+            ]
+        ]
+    },
+    {
+        "id": "8e24a5e225d8f4f7",
+        "type": "ui_text",
+        "z": "ef13bd7f18bd8a10",
+        "group": "90fbf9434e65a502",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Druk op de toets om een vuurpijl af te schieten.",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 440,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "0d7b3e286a7199c8",
+        "type": "comment",
+        "z": "ef13bd7f18bd8a10",
+        "name": "Een Vuurpijl activeren vanuit je smartphone.",
+        "info": "",
+        "x": 230,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "3b482483977db865",
+        "type": "debug",
+        "z": "ef13bd7f18bd8a10",
+        "name": "debug 12",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 320,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "90fbf9434e65a502",
+        "type": "ui_group",
+        "name": "Vuurpijl",
+        "tab": "1a8865122babe94a",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": "<hr>"
+    },
+    {
+        "id": "1a8865122babe94a",
+        "type": "ui_tab",
+        "name": "Programma's",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    }
+]

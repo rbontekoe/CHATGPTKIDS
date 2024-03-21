@@ -1,0 +1,77 @@
+[
+    {
+        "id": "ed0273b10defa41d",
+        "type": "tab",
+        "label": "Je eerste applicatie",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "a44799841615fc3f",
+        "type": "http in",
+        "z": "ed0273b10defa41d",
+        "name": "",
+        "url": "/hallo",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 100,
+        "y": 200,
+        "wires": [
+            [
+                "aa313c1a146b0da2"
+            ]
+        ]
+    },
+    {
+        "id": "aa313c1a146b0da2",
+        "type": "template",
+        "z": "ed0273b10defa41d",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>Bootstrap Example</title>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css\">\n    <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js\"></script>\n    <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js\"></script>\n  </head>\n  <body>\n   \n    <div class=\"container\">\n      <h1>Hallo Wereld!</h1>\n      <p>Een website maak je met HTML-tags. Een tag staat tussen een kleiner (<) en een gtoter (>) teken.</p>\n      <p>Een HTML-tag wordt afgesloten met dezelfde naam voorafgegaan door het slash (/) teken.</p>\n      <p>Voor de kopteksten gebruik je de tags h1 tot en met h6.</p>\n      <p>Gewone tekst zet je tussen de p-tags.</p>\n      <p>Veel plezier met het maken van je website. Rob.</p>\n      <img src=\"{{payload.message}}\" width=\"100%\" />           \n    </div>\n  \n  </body>\n</html>",
+        "output": "str",
+        "x": 300,
+        "y": 200,
+        "wires": [
+            [
+                "e4ff9979a5fc743e"
+            ]
+        ]
+    },
+    {
+        "id": "e4ff9979a5fc743e",
+        "type": "http response",
+        "z": "ed0273b10defa41d",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 490,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "de7b89982aa91fbd",
+        "type": "comment",
+        "z": "ed0273b10defa41d",
+        "name": "    Node-RED is gebaseerd op flow-base programmering, een concept\\n dat een (proces) flow definieert als een data flow.\\n      In een flow gaat de data vanaf de ene node naar de ander node.\\n     De data wordt getransporteerd via een JSON object.",
+        "info": "(    Node-RED is gebaseerd op flow-base programmering, een concept\\n\ndat een (proces) flow definieert als een data flow.\\n \n    In een flow gaat de data vanaf de ene node naar de ander node.\\n\n    De data wordt getransporteerd via een JSON object.)",
+        "x": 280,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "a570e65e0d241f16",
+        "type": "comment",
+        "z": "ed0273b10defa41d",
+        "name": "Je eerste applicatie: Een website opzetten.",
+        "info": "",
+        "x": 200,
+        "y": 160,
+        "wires": []
+    }
+]

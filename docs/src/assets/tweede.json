@@ -1,0 +1,109 @@
+[
+    {
+        "id": "b3f2a493108e33c5",
+        "type": "tab",
+        "label": "Je tweede applicatie:",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "6949bf8fa8a9d673",
+        "type": "http in",
+        "z": "b3f2a493108e33c5",
+        "name": "",
+        "url": "/toon",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 100,
+        "y": 120,
+        "wires": [
+            [
+                "16523c20c60ac24e"
+            ]
+        ]
+    },
+    {
+        "id": "16523c20c60ac24e",
+        "type": "http request",
+        "z": "b3f2a493108e33c5",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "https://dog.ceo/api/breeds/image/random",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 310,
+        "y": 120,
+        "wires": [
+            [
+                "f33e944f6f458c67",
+                "71a08cd0ae7e772d"
+            ]
+        ]
+    },
+    {
+        "id": "3eddf028efdc2d38",
+        "type": "http response",
+        "z": "b3f2a493108e33c5",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 650,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "f33e944f6f458c67",
+        "type": "debug",
+        "z": "b3f2a493108e33c5",
+        "name": "debug 7",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 500,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "71a08cd0ae7e772d",
+        "type": "template",
+        "z": "b3f2a493108e33c5",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>Bootstrap Example</title>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css\">\n    <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js\"></script>\n    <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js\"></script>\n  </head>\n  <body>\n   \n    <div class=\"container\">\n      <button onclick=\"location.reload();\">Volgende plaatje</button>\n      <h1 style=\"text-align:center;\">Mijn Eerste Honden Pagina</h1>\n      <img src=\"{{payload.message}}\" width=\"100%\" />           \n    </div>\n  \n  </body>\n</html>",
+        "output": "str",
+        "x": 500,
+        "y": 120,
+        "wires": [
+            [
+                "3eddf028efdc2d38"
+            ]
+        ]
+    },
+    {
+        "id": "de2335a504bfa80a",
+        "type": "comment",
+        "z": "b3f2a493108e33c5",
+        "name": "Je tweede applicatie: Plaatjes van Honden tonen.",
+        "info": "",
+        "x": 220,
+        "y": 80,
+        "wires": []
+    }
+]
