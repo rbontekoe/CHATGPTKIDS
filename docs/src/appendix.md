@@ -15,7 +15,7 @@ Importeer de de volgende code via het Menu/Import.
 | 3 | Kopieer de code naar het klembord, druk op: Ctrl+C. |
 | 4 | Open de node-editor: <IP raspberry pi>:1880 |
 | 5 | Activeer het menu en kies voor Import of druk op Ctrl+I. ``\\``![appendix_1_1.png ](assets/appendix_1_1.png) |
-| 7 | Plak de code in het vlak eronder: Ctrl+V. |
+| 7 | Plak de code in het vlak waar de cursor staat: Ctrl+V. |
 | 6 | Selecteer: new flow. ``\\``![appendix_1_2.png](assets/appendix_1_2.png) |
 | 8 | Druk op de rode toets Import. |
 | 8 | Er verschijnt een niewue tab met de knooppunten erin. ``\\``![appendix_1_3.png](assets/appendix_1_3.png) |
