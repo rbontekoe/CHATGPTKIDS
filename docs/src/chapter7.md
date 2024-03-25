@@ -1,6 +1,6 @@
 # Je derde applicatie: Vuurpijl afschieten.
 
-*Met behulp van ChatGPT kan Python-code voor je worden gegenereerd. We laten zien hoe je een vuurpijl kunt simuleren op de Sense HAT.*
+*Met behulp van ChatGPT kan Python-code voor je worden gegenereerd. We laten zien hoe je een vuurpijl kunt simuleren op de Sense HAT..*
 
 ### Inhoud.
 
@@ -10,39 +10,39 @@ Pages = ["chapter7.md"]
 
 ## Wat je nodig hebt.
 
-- Een Raspberry Pi 4 met het besturingssysteem Rasberry Pi.
-- Een Sense-HAT ingepluged op de Raspberry Pi.
-- SSH verbinding met de Raspberry Pi.
+- Een Raspberry Pi 4 met het besturingssysteem Raspberry Pi OS.
+- Een Sense-HAT aangesloten op de Raspberry Pi.
+- SSH-verbinding met de Raspberry Pi.
 
 ## Wat je gaat doen.
 
-Stap 1: ChatGPT Python software laten genereren.
+Stap 1: ChatGPT Python-software laten genereren.
 
-Stap 2: Vervang de Python code door die van de docent.
+Stap 2: Vervang de Python-code door die van de docent.
 
-Stap 3: Python code vanuit Node-RED aanroepen.
+Stap 3: Python-code vanuit Node-RED aanroepen.
 
 ## Stap 1: ChatGPT Python software laten genereren.
 
 ChatGPT is een genertief AI (Artificial Intelligence = Kunstmatige Intelligentie) programma dat ook computer software kan genereren. Zie ook de inleiding, waar [ChatGPT](../index.html#Wat-is-ChatGPT?) zelf uitlegt wat het kan doen voor jou.
 
-Het blijkt dat het ook Python code voor de Sense-HAT kan genereren. Je moet wel geregistreerd staan bij OpenAI.com om met ChatGPT te mogen werken. Momenteel is versie 3.5 nog gratis. Dit is de versie die we in de cursus gaan gebruiken. Je werkt vanuit een webbrouwser.
+Het blijkt dat het ook Python-code voor de Sense-HAT kan genereren. Je moet wel geregistreerd staan bij OpenAI.com om met ChatGPT te mogen werken. Momenteel is versie 3.5 nog gratis. Dit is de versie die we in de cursus gaan gebruiken. Je werkt vanuit een webbrowser.
 
 |Stap        | Actie      |
 |:---------- | :---------- |
 | 1 | Open je browser. |
-| 2 | Type: `https://openai.com/` in de adresbalk. |
+| 2 | Typ: `https://openai.com/` in de adresbalk. |
 | 3 | Klik rechtsboven op de toets: Try ChatGPT. ``\\``![ig_7_1](assets/fig_7_1.png) |
-| 4 | Vermoedlijk wordt er gevraagd om in te loggen. Registreer jezelf eerst. |
+| 4 | Vermoedelijk wordt er gevraagd om in te loggen. Registreer jezelf eerst. |
 | 5 | Klik linksboven in de linkerkolom op: New Chat. |
-| 6 | Stel een vraag in het boxje onderaan in het midden, bijvoorbeeld: Wie heeft het programma Python ontwikkeld? ``\\``![fig_7_8](assets/fig_7_8.png) |
+| 6 | Stel een vraag in het vakje onderaan in het midden, bijvoorbeeld: Wie heeft het programma Python ontwikkeld?``\\``![fig_7_8](assets/fig_7_8.png) |
 | 7 | Vermoedelijk krijg je het volgende antwoord: Python is ontwikkeld door Guido van Rossum en werd voor het eerst uitgebracht in 1991. Van Rossum is een Nederlands informaticus die Python ontwikkelde als een opvolger van de programmeertaal ABC. Hij leidde het project gedurende vele jaren en had een grote invloed op de ontwikkeling van Python. |
 | 8 | Experimnteer verder, vraag bijvoorbeeld: Wat kun je doen met de sense-hat? |
 ||
 
 In principe begin je met een eenvoudige vraag, die je steeds verder uitwerkt, bijvoorbeeld:
 
-v1: Schrijf de Python code voor een vuurpijl voor de sense-HAT.
+v1: Schrijf de Python-code voor een vuurpijl voor de Sense HAT.
 
 Test vervolgens je code:
 1. Open een terminal op je laptop en type: ssh pi@192.168.2.15. Gebruik bij de CoderDojo het wachtwoord: `r7P94%B&`.
@@ -54,7 +54,7 @@ Test vervolgens je code:
 7. Typ: `python vuurpijl.py`.
 8. Stop de code met: Ctrl+C.
 
-v2: Pas de code aan zodat de vuurpijl maar 1 keer wordt afgechoten.
+v2: Pas de code aan zodat de vuurpijl maar 1 keer wordt afgevuurd.
 
 Test de code nogmaals:
 1. Typ: `nano vuurpijl.py`.
@@ -72,7 +72,7 @@ Enzovoort, totdat je tevreden bent.
 
 ## Stap 2: Vervang de Python code door die van de docent.
 
-Python code van de docent, waar hij wel het nodige aan heeft moeten sleutelen:
+Python-code van de docent, waar hij wel het nodige aan heeft moeten sleutelen:
 
 ```
 from sense_hat import SenseHat
