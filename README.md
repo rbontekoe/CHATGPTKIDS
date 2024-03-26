@@ -1,4 +1,4 @@
-[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://rbontekoe.github.io/CHATGPTKIDS/stable)
+[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://rbontekoe.github.io/SENSEHATKIDS/stable)
 
 # SENSEHATKIDS: Leer Node-RED en Sense-HAT programmeren. 
 
