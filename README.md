@@ -1,6 +1,6 @@
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://rbontekoe.github.io/CHATGPTKIDS/stable)
 
-# CHATGPTKIDS: Leer Node-RED en Sense-HAT programmeren. 
+# SENSEHATKIDS: Leer Node-RED en Sense-HAT programmeren. 
 
 ### Index.html
 - Inleiding
