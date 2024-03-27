@@ -29,13 +29,13 @@ Voorbeeld om tekst over het display te laten scrollen:
 3. Klik op de toets: Deploy.
 4. Laat de tekst over het scherm rollen door op de Inject node te klikken.
 
-### 08-03-2024
+### 08-03-2024 Klaar.
  
 De cursus is klaar.
 
 ## 2023
 
-### 28-12-2023 - Cursus opzet gemaakt
+### 28-12-2023 - Cursus opzet gemaakt.
 
-Vandaag de basisstructuur voor de RASPI cursus opgezet.
+Vandaag de basisstructuur voor de SENSEHATKIDS cursus opgezet.
 
