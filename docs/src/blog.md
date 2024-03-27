@@ -2,7 +2,17 @@
 
 ## 2024
 
-### 13-03-2024
+### 27-03-2024 Naam i.p.v. IP-adres gebruiken.
+
+Als je met je Raspberry Pi werkt, kun je hem een speciale naam geven. Tijdens de installatie hebben we de naam "raspi-1" gebruikt. Dus in plaats van altijd dat lange IP-adres te moeten onthouden, kun je gewoon de naam gebruiken die je aan je Raspberry Pi hebt gegeven. Bijvoorbeeld:
+
+```
+ssh pi@raspi-1
+```
+
+Dat is super handig!
+
+### 13-03-2024 Module voor de Sense-HAT.
 
 Er is ook een Node-RED module voor de Sense-HAT. Zie o.a.:
 - [sense-hat 1: input](https://www.youtube.com/watch?v=O3vcXhl6dTk)
