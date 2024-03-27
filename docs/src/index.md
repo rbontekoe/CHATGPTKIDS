@@ -3,7 +3,7 @@
 *In deze cursus leer je werken met de Raspberry Pi samen met de Sense-HAT uitbreiding.*
 
 !!! info "Let op"
-    Kijk in de [Blog](../blog/index.html/#) voor de laatste opmerkingen!
+    Kijk in de Blog voor de laatste opmerkingen!
 
 ## Inleiding.
 
