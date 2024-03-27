@@ -7,7 +7,7 @@
 Als je met je Raspberry Pi werkt, kun je hem een speciale naam geven. Tijdens de installatie hebben we de naam "raspi-1" gebruikt. Dus in plaats van altijd dat lange IP-adres te moeten onthouden, kun je gewoon de naam gebruiken die je aan je Raspberry Pi hebt gegeven. Bijvoorbeeld:
 
 ```
-ssh pi@raspi-1
+ssh pi@raspi-1 # ipv pi@182.168.2.15
 ```
 
 Dat is super handig!
