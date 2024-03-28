@@ -127,7 +127,7 @@ Natuurlijk is het handig als je vanuit Node-RED de Python code kunt gebruiken. M
 | 2 | Verbind de nodes met elkaar. ``\\``![fig_7_3](assets/fig_7_3.png) |
 | 3 | Dubbelklik op de exec-node en vul onder command in: `python`. ``\\``![fig_7_4](assets/fig_7_4.png) |
 | 4 | Bepaal het absolute pad naar de folder project/python met het linux commando: `pwd`. ``\\``![fig_7_5](assets/fig_7_5.png) |
-| 5 | Vul het absolute pad in in het veld "append", aangevuld met de naaam van het Python script `vuurpijl.py`, dus: `/home/pi/projects/python/vuurpijl.py`. ``\\``![fig_7_6](assets/fig_7_6.png) |
+| 5 | Vul het absolute pad in in het veld "append", aangevuld met de naam van het Python script `vuurpijl.py`, dus: `/home/pi/projects/python/vuurpijl.py`. ``\\``![fig_7_6](assets/fig_7_6.png) |
 | 6 | Klik op het beginpunt van timestamp-node en de vuurpijl wordt afgeschoten. ``\\``![fig_7_7](assets/fig_7_7.png) |
 ||
 
