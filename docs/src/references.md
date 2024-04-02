@@ -6,4 +6,4 @@ Op [YouTube](https://www.youtube.com/results?search_query=node-red+) staan video
 
 ## Diversen
 
-Op [W3 schools](https://www.w3schools.com/html/) vind je allemaal informatie over HTML, Bootstrap en JavaScript. Het materiaal is wel in het Engels geschreven. Het heeft onder andere "**Try it yourself** (= Probeer het zelf)" toets, zodat je met de HTML-code kunt uitproberen.
+Op [W3 schools](https://www.w3schools.com/html/) vind je allemaal informatie over HTML, Bootstrap en JavaScript. Het materiaal is wel in het Engels geschreven. Het heeft onder andere een "**Try it yourself** (= Probeer het zelf)" toets, zodat je de HTML-code kunt uitproberen.
