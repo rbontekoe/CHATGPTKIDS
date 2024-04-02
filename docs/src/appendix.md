@@ -29,4 +29,4 @@ Importeer de de volgende code via het Menu/Import.
 - [Je eerste applicatie: een website opzetten.](assets/eerste.json)
 - [Je tweede applicatie: Plaatjes van Honden tonen.](assets/tweede.json)
 - [Je derde applicatie: Vuurpijl afschieten.](assets/derde.json)
-- [Een Vuurpijl activeren vanuit je smartphone.](assets/smartphone.json). N.B. Eerst de modele Dashboard installeren!
+- [Een Vuurpijl activeren vanuit je smartphone.](assets/smartphone.json). Eerst de [module Dashboard](..//chapter8/index.html#Stap-1-De-Node-RED-Dashboard-module-downloaden.) installeren!
