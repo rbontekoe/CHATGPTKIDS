@@ -11,7 +11,7 @@ Importeer de de volgende code via het Menu/Import.
 |Stap        | Actie      |
 |:---------- | :---------- |
 | 1 | Klik op de link uit de [List applicaties](#Lijst-applicaties) van de code die je wilt importeren. |
-| 2 | Druk op: Ctrl+A om als code te selecteren/verlichten. |
+| 2 | Druk op: Ctrl+A om alle code te selecteren/verlichten. |
 | 3 | Kopieer de code naar het klembord, druk op: Ctrl+C. |
 | 4 | Open de node-editor: <IP raspberry pi>:1880 |
 | 5 | Activeer het menu en kies voor Import of druk op Ctrl+I. ``\\``![appendix_1_1.png ](assets/appendix_1_1.png) |
