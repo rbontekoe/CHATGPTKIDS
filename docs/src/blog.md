@@ -31,7 +31,7 @@ Er is ook een Node-RED module voor de Sense-HAT. Zie o.a.:
 - [sense-hat 1: input](https://www.youtube.com/watch?v=O3vcXhl6dTk)
 - [sense-hat 2: output](https://www.youtube.com/watch?v=2Am_9DNQ1Bk)
 
-1.Installleer de modue door te zoeken op `node-red-node-pi-sense-hat` in het menu onder: Manage Pallette. ``\\``![blog_1_1.png](assets/blog_1_1.png)
+1. Installleer de modue door te zoeken op `node-red-node-pi-sense-hat` in het menu onder: Manage Pallette. ``\\``![blog_1_1.png](assets/blog_1_1.png)
 
 De nodes worden geinstalleerd onder de kop: Raspberry Pi.
 
