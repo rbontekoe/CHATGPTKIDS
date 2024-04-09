@@ -11,7 +11,7 @@ Deze tekst kun je ook kopieren naar het klembord door op het "Copy" symbool te k
 
 Het "Copy" symbool zie je in de rechterbovenhoek van deze tekst.
 
-Klik er maar op.
+Als je de code hebt gekopieerd, zie je een groen vinkje verschijnen. Dat betekent dat het gelukt is!
 ```
 
 ### 27-03-2024 - Naam i.p.v. IP-adres gebruiken.
