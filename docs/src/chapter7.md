@@ -45,7 +45,7 @@ In principe begin je met een eenvoudige vraag, die je steeds verder uitwerkt, bi
 v1: Schrijf de Python-code voor een vuurpijl voor de Sense HAT.
 
 Test vervolgens je code:
-1. Open een terminal op je laptop en type: ssh pi@192.168.2.15. Gebruik bij de CoderDojo het wachtwoord: `r7P94%B&`.
+1. Open een terminal op je laptop en type: ssh pi@<IP-adres Raspberry Pi>. Gebruik bij de CoderDojo het wachtwoord: `r7P94%B&`.
 2. Typ: `cd projects/python`.
 3. Typ: `nano vuurpijl.py`.
 4. Plak de code van ChatGPT in de editor met: Ctrl+Shift+V.
