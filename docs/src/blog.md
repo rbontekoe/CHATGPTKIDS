@@ -2,6 +2,18 @@
 
 ## 2024
 
+### 09-04-2024 - Kopieren van code voorbeelden.
+
+Nu, als je kijkt naar de lessen, zie je soms een symbool dat lijkt op "Copy" rechtsboven bij de codevoorbeelden. Als je daarop klikt, wordt de tekst automatisch gekopieerd naar het klembord van de computer, zodat je het gemakkelijk kunt plakken waar je maar wilt. Hier is een voorbeeld:
+
+```
+Deze tekst kun je ook kopieren naar het klembord door op het "Copy" symbool te klikken.
+
+Het "Copy" symbool zie je in de rechterbovenhoek van deze tekst.
+
+Klik er maar op.
+```
+
 ### 27-03-2024 - Naam i.p.v. IP-adres gebruiken.
 
 Als je met je Raspberry Pi werkt, kun je hem een speciale naam geven. Tijdens de installatie hebben we de naam "raspi-1" gebruikt. Dus in plaats van altijd dat lange IP-adres te moeten onthouden, kun je gewoon de naam gebruiken die je aan je Raspberry Pi hebt gegeven. Bijvoorbeeld:
