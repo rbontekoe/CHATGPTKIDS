@@ -20,7 +20,7 @@ makedocs(
             "6 Je tweede applicatie: Plaatjes van Honden tonen." => "chapter6.md"
         ],
         "Sectie 4 - ChatGPT als code generator gebruiken" => [
-            "7 Je derde applicatie: Vuurpijl afschieten." => "chapter7.md"
+            "7 Je derde applicatie: VuurpijExperimntl afschieten." => "chapter7.md"
         ],
         "Sectie 5 - Node-RED Dashboard programma maken" => [
             "8 Een Vuurpijl activeren vanuit je smartphone." => "chapter8.md"
