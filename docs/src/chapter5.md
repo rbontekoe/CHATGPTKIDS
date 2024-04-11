@@ -1,6 +1,6 @@
 # Je eerste applicatie: Een website opzetten.
 
-*We gaan een website maken met Node-RED. De website werkt alleen op het wifi-netwerk waar we op zijn aangesloten. Dit betekent dat we de website alleen kunnen bekijken als we met onze computer of telefoon verbonden zijn met het wifi-netwerk. Tijdens het maken van de website leer je ook werken met HTML-code. HTML is een soort taal waarmee we websites kunnen maken.*
+*We gaan aan de slag met Node-RED om een website te maken. Deze website is alleen toegankelijk via het wifi-netwerk waarmee we zijn verbonden. Dit betekent dat je de website alleen kunt bekijken wanneer je computer of telefoon is verbonden met dat wifi-netwerk. Tijdens het maken van de website leer je ook werken met HTML-code. HTML is een soort taal waarmee we websites kunnen maken.*
 
 ### Inhoud.
 
