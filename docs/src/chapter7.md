@@ -10,7 +10,7 @@ Pages = ["chapter7.md"]
 
 ## Wat je nodig hebt.
 
-- Een Raspberry Pi 4 met het besturingssysteem Raspberry Pi OS.
+- Een Raspberry Pi 4 met het besturingssysteem Raspberry Pi Lite.
 - Een Sense-HAT aangesloten op de Raspberry Pi.
 - SSH-verbinding met de Raspberry Pi.
 

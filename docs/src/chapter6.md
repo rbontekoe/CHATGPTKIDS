@@ -12,7 +12,7 @@ Pages = ["chapter6.md"]
 
 ## Wat je nodig hebt.
 
-- Een Raspberry Pi 4B met het besturingssysteem Rasberry Pi.
+- Een Raspberry Pi 4B met het besturingssysteem Rasberry Pi Lite.
 - Een SSH verbinding met de Raspberry Pi.
 
 ## Wat je gaat doen.
