@@ -30,3 +30,11 @@ Importeer de de volgende code via het Menu/Import.
 - [Je tweede applicatie: Plaatjes van Honden tonen.](assets/tweede.json)
 - [Je derde applicatie: Vuurpijl afschieten.](assets/derde.json)
 - [Een Vuurpijl activeren vanuit je smartphone.](assets/smartphone.json). Eerst de [module Dashboard](..//chapter8/index.html#Stap-1-De-Node-RED-Dashboard-module-downloaden.) installeren!
+
+## Foutmelding bij wijzigen WiFi gegevens
+
+Ik kreeg  de volgende foutmelding bij het wijzigen van de wifi gegevens: an error running option s1 wireless lan.
+
+Probeer de netwerkgegevens te veranderen met: `sudo nano /etc/wpa_supplicant/wpa_supplicant.conf`.
+
+Zie voor meer [info](https://forums.raspberrypi.com/viewtopic.php?t=313637).
