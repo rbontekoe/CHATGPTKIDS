@@ -2,6 +2,10 @@
 
 ## 2024
 
+### 12-04-2024 - wifi probleem
+
+Ik wilde voor de CoderDojo morgen de wifi gegevsn aanpassen met: `sudo raspi-config` maar kreeg helaas een fotmelding. In de bijlage vind je hoe je het probleem zou kunnen oplossen.
+
 ### 09-04-2024 - Kopieren van code voorbeelden.
 
 Nu, als je kijkt naar de lessen, zie je soms een symbool dat lijkt op "Copy" rechtsboven bij de codevoorbeelden. Als je daarop klikt, wordt de tekst automatisch gekopieerd naar het klembord van de computer, zodat je het gemakkelijk kunt plakken waar je maar wilt. Hier is een voorbeeld:
