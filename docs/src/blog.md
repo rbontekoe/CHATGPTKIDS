@@ -2,9 +2,9 @@
 
 ## 2024
 
-### 12-04-2024 - wifi probleem
+### 12-04-2024 - Wifi probleem
 
-Ik wilde voor de CoderDojo morgen de wifi gegevsn aanpassen met: `sudo raspi-config` maar kreeg helaas een fotmelding. In de bijlage vind je hoe je het probleem zou kunnen oplossen.
+Ik wilde voor de CoderDojo morgen de wifi gegevens aanpassen met: `sudo raspi-config` maar kreeg helaas een fotmelding. In de bijlage vind je hoe je het probleem zou kunnen oplossen.
 
 ### 09-04-2024 - Kopieren van code voorbeelden.
 
