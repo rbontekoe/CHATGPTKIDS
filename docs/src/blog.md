@@ -6,6 +6,8 @@
 
 Ik wilde voor de CoderDojo morgen de wifi gegevens aanpassen met: `sudo raspi-config` maar kreeg helaas een foutmelding. In de bijlage vind je hoe je het probleem zou kunnen oplossen.
 
+Ook in de bijlage aangegeven hoe je het wachtwoord kunt veranderen, zie [link](https://www.idownloadblog.com/2021/05/17/change-password-raspberry-pi/)
+
 ### 09-04-2024 - Kopieren van code voorbeelden.
 
 Nu, als je kijkt naar de lessen, zie je soms een symbool dat lijkt op "Copy" rechtsboven bij de codevoorbeelden. Als je daarop klikt, wordt de tekst automatisch gekopieerd naar het klembord van de computer, zodat je het gemakkelijk kunt plakken waar je maar wilt. Hier is een voorbeeld:
