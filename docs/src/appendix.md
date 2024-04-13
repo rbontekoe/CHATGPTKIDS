@@ -41,10 +41,9 @@ Klik voor meer info op: [info](https://forums.raspberrypi.com/viewtopic.php?t=31
 
 ## Veranderen wachtwoord via de terminal
 
-```
-Open een terminal en ga naar: ssh pi@raspi-1.
-Typ: passwd.
-Typ: oude password.
-Typ: nieuwe password.
-Typ: nieuwe password opnieuw.
-```
+1. Open een terminal en ga naar: ssh pi@raspi-1.
+2. Typ: passwd.
+3. Typ: oude password.
+4. Typ: nieuwe password.
+5. Typ: nieuwe password opnieuw.
+
