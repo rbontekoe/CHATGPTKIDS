@@ -4,9 +4,9 @@
 
 ### 12-04-2024 - Wifi probleem
 
-Ik wilde voor de CoderDojo morgen de wifi gegevens aanpassen met: `sudo raspi-config` maar kreeg helaas een foutmelding. In de [bijlage](appendix#Foutmelding-bij-wijzigen-WiFi-gegevens) vind je hoe je het probleem zou kunnen oplossen.
+Ik wilde voor de CoderDojo morgen de wifi gegevens aanpassen met: `sudo raspi-config` maar kreeg helaas een foutmelding. In de [bijlage](appendix/index.html#Foutmelding-bij-wijzigen-WiFi-gegevens) vind je hoe je het probleem zou kunnen oplossen.
 
-Ook in de [bijlage](appendix#Veranderen-wachtwoord-via-de-terminal) aangegeven hoe je het wachtwoord kunt veranderen, zie [link](https://www.idownloadblog.com/2021/05/17/change-password-raspberry-pi/)
+Ook in de [bijlage](appendix/index#Veranderen-wachtwoord-via-de-terminal) aangegeven hoe je het wachtwoord kunt veranderen, zie [link](https://www.idownloadblog.com/2021/05/17/change-password-raspberry-pi/)
 
 ### 09-04-2024 - Kopieren van code voorbeelden.
 
