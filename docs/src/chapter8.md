@@ -15,7 +15,7 @@ Pages = ["chapter8.md"]
 - Een Raspberry Pi 4B met het besturingssysteem Raspberry Pi Lite.
 - Een Sense-HAT ingepluged op de Raspberry Pi.
 - SSH verbinding met de Raspberry Pi.
-- Les 7: Je derde applicatie: Vuurpijl afschieten". Als je die niet hebt importeer dan de volgende code in Node-RED, kijk in de [bijlage](..//appendix/index.html#Importeren-van-de-code-van-alle-hoofdstukken-vanaf-les-5) hoe je dat moet doen.
+- Les 7: Je derde applicatie: Vuurpijl afschieten". Als je die niet hebt importeer dan de volgende code in Node-RED, kijk in de [bijlage](appendix/index.html#Importeren-van-de-code-van-alle-hoofdstukken-vanaf-les-5) hoe je dat moet doen.
 
 ## Wat je gaat doen
 

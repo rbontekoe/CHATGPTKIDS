@@ -24,7 +24,7 @@ Stap 3: Python-code vanuit Node-RED aanroepen.
 
 ## Stap 1: ChatGPT Python software laten genereren.
 
-ChatGPT is een genertief AI (Artificial Intelligence = Kunstmatige Intelligentie) programma dat ook computer software kan genereren. Zie ook de inleiding, waar [ChatGPT](../index.html#Wat-is-ChatGPT?) zelf uitlegt wat het kan doen voor jou.
+ChatGPT is een genertief AI (Artificial Intelligence = Kunstmatige Intelligentie) programma dat ook computer software kan genereren. Zie ook de inleiding, waar [ChatGPT](index.html#Wat-is-ChatGPT?) zelf uitlegt wat het kan doen voor jou.
 
 Het blijkt dat het ook Python-code voor de Sense-HAT kan genereren. Je moet wel geregistreerd staan bij OpenAI.com om met ChatGPT te mogen werken. Momenteel is versie 3.5 nog gratis. Dit is de versie die we in de cursus gaan gebruiken. Je werkt vanuit een webbrowser.
 
