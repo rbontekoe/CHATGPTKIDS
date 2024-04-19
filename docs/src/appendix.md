@@ -33,7 +33,9 @@ Importeer de de volgende code via het Menu/Import.
 
 ## Foutmelding bij wijzigen WiFi gegevens
 
-Ik kreeg de volgende foutmelding bij het wijzigen van de wifi gegevens: an error running option s1 wireless lan.
+Ik kreeg de volgende foutmelding bij het wijzigen van de wifi gegevens met `sudo raspi_config -> System Options: an error running option s1 wireless lan.
+
+![fig appendix_1_5](assets/appendix_1_5.png)
 
 Probeer de netwerkgegevens te veranderen met: `sudo nano /etc/wpa_supplicant/wpa_supplicant.conf`.
 
