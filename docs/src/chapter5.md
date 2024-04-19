@@ -26,7 +26,7 @@ Je hebt 3 knooppunten nodig om een eenvoudige website te maken:
 - template (staat in functie, 1 sectie hoger)
 - http response
 
-Met "http in" vertel je hoe mensen naar een specifieke pagina op je website kunnen gaan. De pagina is te vinden op het adres IP_adres_raspberry_pi:1880/naam\_pagina. "http response" zorgt ervoor dat de pagina er mooi uitziet door middel van iets watHTML-code heet. In "template" kun je zien hoe de HTML-code eruit ziet.
+Met "http in" vertel je hoe mensen naar een specifieke pagina op je website kunnen gaan. De pagina is te vinden op het adres IP_adres_raspberry_pi:1880/naam. "http response" zorgt ervoor dat de pagina er mooi uitziet door middel van iets wat HTML-code heet. In "template" kun je zien hoe de HTML-code eruit ziet.
 
 **Voer de volgende stappen uit:**
 
