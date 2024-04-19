@@ -35,11 +35,11 @@ Importeer de de volgende code via het Menu/Import.
 
 Ik kreeg de volgende foutmelding bij het wijzigen van de wifi gegevens: an error running option s1 wireless lan.
 
-![fig appendix_1_4](assets/appendix_1_4.png)
-
 Probeer de netwerkgegevens te veranderen met: `sudo nano /etc/wpa_supplicant/wpa_supplicant.conf`.
 
 Klik voor meer info op: [info](https://forums.raspberrypi.com/viewtopic.php?t=313637).
+
+![fig appendix_1_4](assets/appendix_1_4.png)
 
 ## Veranderen wachtwoord via de terminal
 
