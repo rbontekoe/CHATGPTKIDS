@@ -106,6 +106,6 @@ Web responsive design (WRD) betekent dat je website op elk apparaat, zoals je co
 
 ## Samenvatting.
 
-Dit hoofdstuk gaat over het bouwen van een website met Node-RED. Node-RED is een programma waarmee je websites kunt maken en leren hoe HTML-code werkt. De website werkt alleen op het wifi-netwerk waarmee je verbonden bent. Je hebt een Raspberry Pi 4B nodig met het besturingssysteem Raspberry Pi Lite en Node-RED geïnstalleerd. Om een eenvoudige website te maken met Node-RED heb je 3 knooppunten nodig, namelijk "http in", "template" en "http response". Met deze knooppunten maak je een flow die als een soort programma werkt.
+Dit hoofdstuk gaat over het bouwen van een website met behulp van Node-RED. Node-RED is een programma waarmee je websites kunt maken en leren hoe HTML-code werkt. De website werkt alleen op het wifi-netwerk waarmee je verbonden bent. Je hebt een Raspberry Pi 4B nodig met het besturingssysteem Raspberry Pi Lite en Node-RED geïnstalleerd. Om een eenvoudige website te maken met Node-RED heb je 3 knooppunten nodig: "HTTP-in", "Template" en "HTTP Response". Met deze knooppunten maak je een flow die als een soort programma werkt.
 
 
