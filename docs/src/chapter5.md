@@ -12,6 +12,7 @@ Pages = ["chapter5.md"]
 
 - Een Raspberry Pi 4B met het besturingssysteem Raspberry Pi Lite.
 - Node-RED is geïnstalleerd.
+- SSH-verbinding met de Raspberry Pi.
 
 ## Wat je gaat doen.
 
