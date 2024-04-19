@@ -39,7 +39,7 @@ Ik kreeg de volgende foutmelding bij het wijzigen van de wifi gegevens met `sudo
 
 Probeer de netwerkgegevens te veranderen met: `sudo nano /etc/wpa_supplicant/wpa_supplicant.conf`.
 
-Klik voor meer info op: [info](https://forums.raspberrypi.com/viewtopic.php?t=313637).
+Klik voor meer informatie op: [info](https://forums.raspberrypi.com/viewtopic.php?t=313637).
 
 ![fig appendix_1_4](assets/appendix_1_4.png)
 
