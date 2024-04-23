@@ -50,13 +50,13 @@ Deze cursus is gemaakt om te werken op een [Raspberry Pi 4B](https://nl.wikipedi
 
 ## Wat is een Sense-HAT?
 
-Een [Sense HAT](https://elektronicavoorjou.nl/product/raspberry-pi-sense-hat-v2/) is een uitbreidingskaart die specifiek is ontworpen voor de Raspberry Pi, een kleine, programmeerbare computer. De Sense HAT bevat verschillende sensoren en LED's die de mogelijkheid bieden om verschillende gegevens te meten, te verzamelen en weer te geven.
+Een [Sense-HAT](https://elektronicavoorjou.nl/product/raspberry-pi-sense-hat-v2/) is een uitbreidingskaart die specifiek is ontworpen voor de Raspberry Pi, een kleine, programmeerbare computer. De Sense-HAT bevat verschillende sensoren en LED's die de mogelijkheid bieden om verschillende gegevens te meten, te verzamelen en weer te geven.
 
 De belangrijkste componenten van een Sense-HAT omvatten een verzameling sensoren, zoals een gyroscoop, versnellingsmeter, magneetometer, temperatuursensor, luchtdruksensor en een vochtigheidssensor. Deze sensoren stellen de gebruiker in staat om informatie te verzamelen over beweging, oriëntatie, temperatuur, luchtdruk en vochtigheid in de omgeving.
 
-Daarnaast heeft de Sense HAT een matrix van LED's (Light Emitting Diodes) die kunnen worden geprogrammeerd om verschillende patronen, letters, cijfers of afbeeldingen weer te geven. Dit biedt gebruikers de mogelijkheid om visuele feedback te geven of informatie op een creatieve manier te presenteren.
+Daarnaast heeft de Sense-HAT een matrix van LED's (Light Emitting Diodes) die kunnen worden geprogrammeerd om verschillende patronen, letters, cijfers of afbeeldingen weer te geven. Dit biedt gebruikers de mogelijkheid om visuele feedback te geven of informatie op een creatieve manier te presenteren.
 
-De Sense HAT is populair in educatieve omgevingen en projecten voor het leren programmeren, omdat het een praktisch en hands-on platform biedt voor het verkennen van sensortechnologie, gegevensverzameling en het maken van interactieve projecten met de Raspberry Pi. Het wordt ook gebruikt in verschillende toepassingen zoals weerstations, experimenten met bewegingsdetectie, gaming, en voor het creëren van visuele displays.
+De Sense-HAT is populair in educatieve omgevingen en projecten voor het leren programmeren, omdat het een praktisch en hands-on platform biedt voor het verkennen van sensortechnologie, gegevensverzameling en het maken van interactieve projecten met de Raspberry Pi. Het wordt ook gebruikt in verschillende toepassingen zoals weerstations, experimenten met bewegingsdetectie, gaming, en voor het creëren van visuele displays.
 
 ```@raw html
 <img src="https://www.raspberrypi.com/documentation/accessories/images/Sense-HAT.jpg" alt="Sense-HAT" width="300">
