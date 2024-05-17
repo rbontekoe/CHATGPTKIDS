@@ -32,7 +32,7 @@ ssh pi@raspi-1 # ipv pi@192.168.2.15
 Dat is super handig!
 
 !!! info "Werkt niet bij het TechLab"
-   Overigens werkt de naam `raspi-1` niet bij de CoderDojo evenementen die door het TechLab worden georganiseerd.
+    Overigens werkt de naam `raspi-1` niet bij de CoderDojo evenementen die door het TechLab worden georganiseerd.
 
 ### 13-03-2024 - Module voor de Sense-HAT.
 
