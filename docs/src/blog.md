@@ -2,6 +2,17 @@
 
 ## 2024
 
+### 26-5-2024 - Uctrinics HDMI dispaly
+
+Ik gebruik een 7-inch HDMI LCD display met capacitieve multi-touch touchscreen. Voor de SENSEHATKIDS cursus gebruik ik het om het IP-adres van de Raspberry Pi 4 te achterhalen (met ip a). Om het display geschikt te maken zijn er wat aanpassingen nodig:
+
+```
+sudo nano /boot/firmware/config.txt
+```
+
+1. Verander in het bestand: dtoverlay=vc4-kms-v3d in: `dtoverlay=vc4-fkms-v3d`.
+2. Herstart de Raspberry Pi met: `1sudo reboot`.
+
 ### 12-04-2024 - Wifi probleem
 
 Ik wilde voor de CoderDojo morgen de wifi gegevens aanpassen met: `sudo raspi-config` maar kreeg helaas een foutmelding. In de [bijlage](../appendix/index.html#Foutmelding-bij-wijzigen-WiFi-gegevens) vind je hoe je het probleem zou kunnen oplossen.
@@ -36,7 +47,7 @@ Dat is super handig!
 
     Ik heb daarom de Desktop versie geinstalleerd, zodat je de juiste SSID kunt installeren en wachtwoord. Het ssh wachtwoord is voor de Raspberry Pi is: r7P94%B&.
     
-    Als je het ip-adres wilt weten typ dan: `ip a`.
+    Als je het ip-adres wilt weten typ dan: `ip a` in de terminal. Een terminal maak je met: Ctrl+T.
 
 ### 13-03-2024 - Module voor de Sense-HAT.
 

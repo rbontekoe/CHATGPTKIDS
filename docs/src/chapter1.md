@@ -77,11 +77,12 @@ Stap 4: Werk de Raspberry Pi bij.
 
 |Stap        | Actie      |
 |:---------- | :---------- |
-| 1 | Open een terminal venster. |
+| 1 | Open een terminal venster met: Ctrl+T. |
 | 2 | Tik: `ping raspi-1` en noteer het IP-adres, bijvoorbeeld: 192.168.2.15 ``\\``![fig_1_8](assets/fig_1_8.png) |
 | 3 | Tik: `ssh pi@<IP-adres Raspberry Pi>`. |
 | 4 | Tik: `yes`. |
-| 5 | Druk op de Enter-toets. |
+| 5 | Tik het wachtwoord (zonder de punt aan het einde) in: r7P94%B&.
+| 6 | Druk op de Enter-toets. |
 ||
 
 !!! info "Al eens eerder ssh gebruikt?"
