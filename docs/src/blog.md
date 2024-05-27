@@ -10,7 +10,7 @@ Ik gebruik een 7-inch HDMI 1024x600 LCD display met capacitieve multi-touch touc
 sudo nano /boot/firmware/config.txt
 ```
 
-1. Verander in het bestand: dtoverlay=vc4-kms-v3d in: `dtoverlay=vc4-**f**kms-v3d`.
+1. Verander in het bestand: dtoverlay=vc4-kms-v3d in: `dtoverlay=vc4-fkms-v3d`.
 2. Herstart de Raspberry Pi met: `sudo reboot`.
 
 ### 12-04-2024 - Wifi probleem
