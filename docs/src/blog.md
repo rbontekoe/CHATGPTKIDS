@@ -4,7 +4,7 @@
 
 ### 26-5-2024 - UCTRONICS HDMI display
 
-Ik gebruik een 7-inch HDMI LCD display met capacitieve multi-touch touchscreen. Voor de SENSEHATKIDS cursus gebruik ik het om het IP-adres van de Raspberry Pi 4 te achterhalen met: `ip a`. Om het display geschikt te maken zijn er wat aanpassingen nodig. Installeer wel de 64 bit Desktop versie van de Raspberry Pi 4 i.p.v. de rasspberry pi lite. Verander vervolgens het bestand config.txt:
+Ik gebruik een 7-inch HDMI LCD display met capacitieve multi-touch touchscreen van Uctronics. Voor de SENSEHATKIDS cursus gebruik ik het om het IP-adres van de Raspberry Pi 4 te achterhalen met: `ip a`. Om het display geschikt te maken zijn er wat aanpassingen nodig. Installeer wel de 64 bit Desktop versie van de Raspberry Pi 4 i.p.v. de rasspberry pi lite. Verander vervolgens het bestand config.txt:
 
 ``` 
 sudo nano /boot/firmware/config.txt
