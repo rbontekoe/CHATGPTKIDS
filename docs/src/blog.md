@@ -4,13 +4,13 @@
 
 ### 26-5-2024 - UCTRONICS HDMI display
 
-Ik gebruik een 7-inch HDMI 1024x600 LCD display met capacitieve multi-touch touchscreen van [UCtronics](https://www.sossolutions.nl/uctronics-7-inch-ips-touchscreen-for-raspberry-pi-with-prop-stand-1024-600-capacitive-hdmi-lcd-monitor-portable-display-for-raspberry-pi-4-3-b-windows-10-8-7-free-driver?gad_source=1&gclid=Cj0KCQjw3tCyBhDBARIsAEY0XNlMsYe0sFoa4RbZ23QPJDhGwW9soGrXK5luyFV-TT80C5EnAl_Sas0aAk5lEALw_wcB). Voor de SENSEHATKIDS cursus gebruik ik het om het IP-adres van de Raspberry Pi 4 te achterhalen met: `ip a`. Om het display geschikt te maken zijn er wat aanpassingen nodig. Installeer wel de 64 bit Desktop versie van de Raspberry Pi 4 i.p.v. de rasspberry pi lite. Verander vervolgens het bestand config.txt:
+Ik gebruik een 7-inch HDMI 1024x600 LCD display met capacitieve multi-touch touchscreen van [UCtronics](https://www.sossolutions.nl/uctronics-7-inch-ips-touchscreen-for-raspberry-pi-with-prop-stand-1024-600-capacitive-hdmi-lcd-monitor-portable-display-for-raspberry-pi-4-3-b-windows-10-8-7-free-driver?gad_source=1&gclid=Cj0KCQjw3tCyBhDBARIsAEY0XNlMsYe0sFoa4RbZ23QPJDhGwW9soGrXK5luyFV-TT80C5EnAl_Sas0aAk5lEALw_wcB). Voor de SENSEHATKIDS cursus gebruik ik het om het IP-adres van de Raspberry Pi 4 te achterhalen met: `ip a`. Om het display geschikt te maken zijn er wat aanpassingen nodig. Installeer wel de 64 bit Desktop versie van de Raspberry Pi 4 OS i.p.v. de Rasspberry Pi lite. Verander vervolgens het bestand config.txt: 
 
 ``` 
 sudo nano /boot/firmware/config.txt
 ```
 
-1. Verander in het bestand: dtoverlay=vc4-kms-v3d in: `dtoverlay=vc4-fkms-v3d`.
+1. Verander in het bestand: dtoverlay=vc4-kms-v3d in: `dtoverlay=vc4-**f**kms-v3d`.
 2. Herstart de Raspberry Pi met: `sudo reboot`.
 
 ### 12-04-2024 - Wifi probleem
