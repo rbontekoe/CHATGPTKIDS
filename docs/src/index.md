@@ -5,6 +5,13 @@
 !!! info "Let op"
     Kijk in de Blog voor de laatste opmerkingen!
 
+    Links waarop je kunt klikken zijn blauw!
+
+    **Ben je bij de CoderDojo in Leusden?** Vraag dan je begeleider om het IP-adres van de Raspberry Pi. Soms wordt er gevraag een sessie te openen op de Raspberry Pi:
+    1. Druk op: Ctrl+T op een terminal te openen.
+    2. Typ: `ssh pi@IP_adres_Raspberry_Pi` in de terminal. pi is de naam van de gebruiker op de Raspberry Pi.
+    3. Druk op Enter.
+
 ## Inleiding.
 
 Ik werk mee aan [CoderDojo](https://www.leusdenzet.nl/techlab/coderdojo/) evenementen voor kinderen bij het Technisch Lab van LeusdenZeT, door het maken van online cursusmateriaal.

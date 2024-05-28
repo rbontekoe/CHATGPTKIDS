@@ -2,6 +2,10 @@
 
 *We gaan een Micro SD-kaartje klaarmaken voor de Raspberry Pi 4B met het besturingssysteem Raspberry Pi erop. Dit betekent dat we een speciaal soort computerprogramma op het kaartje gaan installeren. Ubuntu Server is gemaakt om te helpen bij het uitvoeren van taken op een computer.*
 
+!!! tip "WiFi problemen"
+    Soms kun je niet zomaar een computer op een bepaald WiFi-netwerk vinden, zelfs niet als je de juiste naam invoert, zoals "raspi-1" in onze les. Achteraf gezien zou het misschien handiger zijn om Raspberry Pi 4 OS (64 bit) te installeren. Dit is een speciale versie van de computer die er uitziet als een gewone computer, zodat je ermee kunt werken via WiFi. Je moet wel een HDMI beeldscherm hebben om het te kunnen zien. Ik had daar ook problemen mee, je kunt het lezen in het artikel op mijn blog: [5-2024 UCTRONICS HDMI display](../blog/index.html#5-2024-UCTRONICS-HDMI-display). 
+    Met Raspberry Pi 4 OS (64 bit) kun je een WiFi-netwerk uit een lijst selecteren dat je wilt gebruiken.
+
 ### Inhoud.
 
 ```@contents
@@ -68,12 +72,11 @@ Stap 4: Werk de Raspberry Pi bij.
 | 24 | Haal de kaarthouder met de Micro SD kaart uit je computer. |
 | 25 | Stop het SD kaartje in je Raspberry Pi en sluit de USB-C voeding aan. |
 ||
-
-!!! info "Belangrijke veranderingen in het Imager programma"
-   
-    Vroeger moest je als je iets fout had ingevuld op je kaartje, zoals het wachtwoord voor WiFi, alles opnieuw doen. Maar nu kun je dat later veranderen. In stap 11 kies je dan voor **EDIT SETTINGS*. 
     
 ## Stap 3 - Log in op Raspberry Pi.
+
+!!! tip "WiFi problemen"
+    Soms kun je niet zomaar een computer op een bepaald WiFi-netwerk vinden, zelfs niet als je de juiste naam invoert, zoals met "ping raspi-1" in onze les. Achteraf gezien zou het misschien handiger zijn om Raspberry Pi 4 OS (64 bit) met Desktop te installeren, omdat je dan het netwerk uit een lijst kunt selecteren.
 
 |Stap        | Actie      |
 |:---------- | :---------- |

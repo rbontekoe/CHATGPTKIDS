@@ -31,7 +31,7 @@ Met "http in" vertel je hoe mensen naar een specifieke pagina op je website kunn
 
 **Voer de volgende stappen uit:**
 
-1. Ga met je browser naar `IP_adres_raspberry_pi:1880`.
+1. Ga met je browser naar `IP_adres_raspberry_pi:1880`. Zie in de infobox ["Let op"](../index.html) van de inleiding hoe je het moet doen.
 2. Sleep de knooppunten naar je werkblad. Zie ook [Inleiding NodeRed](https://eelcodijkstra.github.io/iot-0/html/inleiding/nodered-inleiding.html) van Eelco Dijkstra.
     
    ![fig_5_1](assets/fig_5_1.png)

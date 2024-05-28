@@ -46,7 +46,7 @@ Dus dit stuk code bevat informatie over de status van een bepaalde actie en een 
 
 **Voer de volgende stappen uit:**
 
-1. Ga met je browser naar `IP_adres_raspberry_pi:1880`.
+1. Ga met je browser naar `IP_adres_raspberry_pi:1880`. Zie in de infobox ["Let op"](../index.html) van de inleiding hoe je het moet doen.
 
 2. Sleep de volgende knooppunten naar je werkblad:
    - `http in`
