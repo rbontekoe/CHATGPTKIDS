@@ -45,7 +45,7 @@ Dat is super handig!
 !!! tip "Werkt niet bij het TechLab"
     Overigens werkt de naam `raspi-1` niet bij de CoderDojo evenementen die door het TechLab worden georganiseerd.
 
-    Ik heb daarom de Desktop versie geinstalleerd, zodat je de juiste SSID kunt installeren en wachtwoord. Het ssh wachtwoord is voor de Raspberry Pi is: r7P94%B&.
+    Ik heb daarom de Desktop versie geinstalleerd, zodat je de juiste SSID kunt installeren en wachtwoord. Het ssh wachtwoord is voor de Raspberry Pi vraagt om een wachtwoord. Vraag aan je begeleider wat het wachtwoord is.
     
     Als je het ip-adres wilt weten typ dan: `ip a` in de terminal. Een terminal maak je met: Ctrl+T.
 
