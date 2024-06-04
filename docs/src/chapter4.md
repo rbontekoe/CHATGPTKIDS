@@ -50,7 +50,7 @@ Zie ook het document [Running on Raspberry Pi](https://nodered.org/docs/getting-
 
 Als je klaar bent met het installeren van Node-RED, kun je het starten door `node-red` in te typen. Maar om het nog makkelijker te maken, kun je instellen dat Node-RED automatisch begint te draaien wanneer je de Raspberry Pi aanzet.
 
-Hiervoor hoef je alleen maar het commando `sudo systemctl enable nodered.service` te gebruiken.
+Hiervoor hoef je alleen maar het commando `sudo systemctl enable nodered.service` te gebruiken. Start daarna de Raspberry Pi opnieuw met: `sudo reboot`.
 
 ## Samenvatting.
 
