@@ -56,4 +56,4 @@ Hiervoor hoef je alleen maar het commando `sudo systemctl enable nodered.service
 
 Gebruik het commando **bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)** om Node-RED te installeren.
 
-Nadat Node-RED is geïnstalleerd, typ je node-red om het te starten. Maar als je het nog makkelijker wilt maken, kun je instellen dat Node-RED automatisch begint te werken wanneer je de Raspberry Pi aanzet. Typ hiervoor **sudo systemctl enable nodered.service**.
+Nadat Node-RED is geïnstalleerd, typ je **node-red** om het te starten. Maar als je het nog makkelijker wilt maken, kun je instellen dat Node-RED automatisch begint te werken wanneer je de Raspberry Pi aanzet. Typ hiervoor **sudo systemctl enable nodered.service**.
