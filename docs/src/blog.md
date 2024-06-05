@@ -12,7 +12,7 @@ sudo raspi-config
 # Nu de instellingen aanpassen, kies voor (met pijl naar beneden en Enter): 
 # 5. Localisation Options -> L1. Locale, en markeer met de spatiebalk 
 # `nl_NL.UTF-8` in de lijst. Druk op de Tab-toets. <Ok> is nu verlicht.
-# `nl_NL.UTF-8` staat al verlicht. Druk op de Tab-toets. 
+# Druk op de Enter-toets. `nl_NL.UTF-8` staat al verlicht. Druk op de Tab-toets. 
 # <Ok> is nu verlicht. Druk op de Enter-toets.
 # Druk op de Tab-toets om het menu te verlaten. <Select> staat nu verlicht.
 # Druk op de pijl naar rechts toets. <Finish> is nu verlicht. Druk op de Enter-toets.
