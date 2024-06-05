@@ -2,6 +2,21 @@
 
 ## 2024
 
+Als je in de terminal typt: `locale`, dan krijg je de instellingen van je taal en andere zaken te zien. Ik had het probleem dat het Nederlands niet goed ingesteld stond een ik heb toen het volgende gedaan:
+
+```
+locale # toon instellingen
+sudo apt update # lijst bijwerken
+sudo apt install locales-all # alle talen installeren
+sudo raspi-conf
+# Nu de instellingen aanpassen, kies voor: 5. Localisation Options -> L1. Locale, en markeer
+# met de spatiebalk `nl_NL.UTF-8` in de lijst. Druk op de Tab-toets. <Ok> is nu verlicht.
+# Druk op de Enter-toets. `nl_NL.UTF-8` staat nu verlicht. Druk nogmaals op Enter-toets.
+# Verlaat het menu door op de Tab te drukken om het menu te verlaten. <Select> staat nu verlicht.
+# Druk op de pijl naar rechts. <Finish> is nu verlicht. Druk op de Enter-toets.
+# Herstart de Raspberry Pi met: `sudo reboot`.
+```
+
 ### 26-5-2024 - UCTRONICS HDMI display
 
 Ik gebruik een 7-inch HDMI 1024x600 LCD display met capacitieve multi-touch touchscreen van [UCtronics](https://www.sossolutions.nl/uctronics-7-inch-ips-touchscreen-for-raspberry-pi-with-prop-stand-1024-600-capacitive-hdmi-lcd-monitor-portable-display-for-raspberry-pi-4-3-b-windows-10-8-7-free-driver?gad_source=1&gclid=Cj0KCQjw3tCyBhDBARIsAEY0XNlMsYe0sFoa4RbZ23QPJDhGwW9soGrXK5luyFV-TT80C5EnAl_Sas0aAk5lEALw_wcB). Voor de SENSEHATKIDS CoderDojo cursus gebruik ik het om het IP-adres van de Raspberry Pi 4 te achterhalen met: `ip a | grep wlan0`, omdat niet ieder netwerk namen (zoals: raspi-1) van servers ondersteunt. De Desktop versie laat namelijk alle SSID endpoints zien in een omgeving. Om het display geschikt te maken zijn er wat aanpassingen nodig. Installeer wel de 64 bit Desktop versie van de Raspberry Pi 4 OS i.p.v. de Raspberry Pi lite. Verander vervolgens het bestand config.txt: 
