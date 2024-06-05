@@ -17,10 +17,10 @@ Vervolgens:
 
 |Stap        | Actie      |
 |:---------- | :---------- |
-| 1 | Nu de instellingen aanpassen, kies voor (met pijl naar beneden en Enter): 5. Localisation Options -> L1. Locale. ``\\``![blog_1_6](assets/blog_1_6.png)|
-| 2 | Markeer met de spatiebalk `nl_NL.UTF-8` in de lijst. ``\\``![blog_1_7](assets/blog_1_7.png) |
+| 1 | Nu de instellingen aanpassen, kies voor (met pijl naar beneden en Enter): 5. Localisation Options -> L1. Locale. ![blog_1_6](assets/blog_1_6.png)|
+| 2 | Markeer met de spatiebalk `nl_NL.UTF-8` in de lijst. ![blog_1_7](assets/blog_1_7.png) |
 | 3 | Druk op de Tab-toets. <Ok> is nu verlicht. Druk op de Enter-toets. |
-| 4 | `nl_NL.UTF-8` staat al verlicht. ``\\``![blog_1_8](assets/blog_1_8.png) |
+| 4 | `nl_NL.UTF-8` staat al verlicht. ![blog_1_8](assets/blog_1_8.png) |
 | 5 | Druk op de Tab-toets. <Ok> is nu verlicht. Druk op de Enter-toets. |
 | 6 | Druk op de Tab-toets om het menu te verlaten. <Select> staat nu verlicht. ``\\``![blog_1_9](assets/blog_1_9.png) |
 | 7 | Druk op de pijl naar rechts toets. <Finish> is nu verlicht. |
