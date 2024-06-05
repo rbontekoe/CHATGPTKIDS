@@ -2,7 +2,7 @@
 
 ## 2024
 
-Als je in de terminal typt: `locale`, dan krijg je de instellingen van je taal en andere zaken te zien. Ik had het probleem dat het Nederlands niet goed ingesteld stond een ik heb toen het volgende gedaan, zie [Raspberry Pi Forum](https://forums.raspberrypi.com/viewtopic.php?t=253136):
+Als je in de terminal typt: `locale`, dan krijg je de instellingen van je taal en andere zaken te zien. Ik had het probleem dat het Nederlands niet goed ingesteld stond en ik heb toen het volgende gedaan, zie [Raspberry Pi Forum](https://forums.raspberrypi.com/viewtopic.php?t=253136):
 
 ```
 locale # toon instellingen
