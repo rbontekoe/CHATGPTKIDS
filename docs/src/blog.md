@@ -14,7 +14,7 @@ sudo raspi-config
 # `nl_NL.UTF-8` in de lijst. Druk op de Tab-toets. <Ok> is nu verlicht.
 # `nl_NL.UTF-8` staat al verlicht. Druk op de Tab-toets. 
 # <Ok> is nu verlicht. Druk op de Enter-toets.
-# Druk  op de Tab te drukken om het menu te verlaten. <Select> staat nu verlicht.
+# Druk op de Tab-toets om het menu te verlaten. <Select> staat nu verlicht.
 # Druk op de pijl naar rechts toets. <Finish> is nu verlicht. Druk op de Enter-toets.
 # Herstart de Raspberry Pi met: `sudo reboot`.
 ```
