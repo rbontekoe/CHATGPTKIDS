@@ -8,12 +8,13 @@ Als je in de terminal typt: `locale`, dan krijg je de instellingen van je taal e
 locale # toon instellingen
 sudo apt update # lijst bijwerken
 sudo apt install locales-all # alle talen installeren
-sudo raspi-conf
+sudo raspi-config
 # Nu de instellingen aanpassen, kies voor: 5. Localisation Options -> L1. Locale, en markeer
 # met de spatiebalk `nl_NL.UTF-8` in de lijst. Druk op de Tab-toets. <Ok> is nu verlicht.
-# Druk op de Enter-toets. `nl_NL.UTF-8` staat nu verlicht. Druk nogmaals op Enter-toets.
-# Verlaat het menu door op de Tab te drukken om het menu te verlaten. <Select> staat nu verlicht.
-# Druk op de pijl naar rechts. <Finish> is nu verlicht. Druk op de Enter-toets.
+# `nl_NL.UTF-8` is nu verlicht.
+# Druk op de Tab-toets. <Ok> is nu verlicht. Druk op de Enter-toets.
+# Druk  op de Tab te drukken om het menu te verlaten. <Select> staat nu verlicht.
+# Druk op de pijl naar rechts toets. <Finish> is nu verlicht. Druk op de Enter-toets.
 # Herstart de Raspberry Pi met: `sudo reboot`.
 ```
 
