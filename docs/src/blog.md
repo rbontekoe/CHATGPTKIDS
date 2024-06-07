@@ -2,6 +2,17 @@
 
 ## 2024
 
+### 07/06/2024 - IP adres Raspberry Pi tonen bij de CoderDojo sessie van het Techlab
+
+Zorg ervoor dat er een toetsenbord, muis en HDMI-scherm op de Raspberry Pi zijn aangesloten. Zorg ervoor dat je bent verbonden met het wifi-netwerk van TechLab. Standaard is dit netwerk al voor je ingesteld.
+
+Zoek naar een zwart vlakje met ">_" op je scherm. Klik met de muis op dit vlakje om een teminal te openen.
+
+Het ip adres van de Raspberry Pi toon je als volgt:
+ 
+![blog_1_11](assets/blog_1_11.png)
+
+
 ### 05/06/2024 - Locale instelling wijzigen
 
 Als je nu het commando "locale" typt, dan laat je computer zien in welke taal hij praat en hoe hij andere dingen instelt. Net zoals je thuis misschien de taal van je tv of spelcomputer kunt aanpassen, kun je dat ook met je computer doen, zie ook [Raspberry Pi Forum](https://forums.raspberrypi.com/viewtopic.php?t=253136):
@@ -29,11 +40,6 @@ sudo raspi-config
 | 8 | Druk op de pijl-naar-rechts-toets. <Finish> is nu verlicht. |
 | 9 | Druk op de Enter-toets. Je bent terug bij de prompt. |
 | 10 | Herstart je Raspberry Pi om de wijzigingen te bewaren met: `sudo reboot`. |
-
-Het ip adres van de Raspberry Pi tonen:
-
-![blog_1_11](assets/blog_1_11.png)
-
 
 ### 26-5-2024 - UCTRONICS HDMI display
 
