@@ -3,7 +3,7 @@
 *We gaan een Micro SD-kaartje klaarmaken voor de Raspberry Pi 4B met het besturingssysteem Raspberry Pi erop. Dit betekent dat we een speciaal soort computerprogramma op het kaartje gaan installeren. Ubuntu Server is gemaakt om te helpen bij het uitvoeren van taken op een computer.*
 
 !!! tip "WiFi problemen"
-    Soms kun je niet zomaar een computer op een bepaald WiFi-netwerk vinden, zelfs niet als je de juiste naam invoert, zoals "ping raspi-1" in onze les. Achteraf gezien zou het misschien handiger zijn om Raspberry Pi 4 OS (64 bit) te installeren. Dit is een speciale versie van de computer die er uitziet als een gewone computer, zodat je ermee kunt werken via WiFi. Je moet wel een HDMI beeldscherm hebben om het te kunnen zien. Ik had daar ook problemen mee, je kunt het lezen in het artikel op mijn blog: [5-2024 UCTRONICS HDMI display](../blog/index.html#5-2024-UCTRONICS-HDMI-display). 
+    Soms kun je niet zomaar een computer op een bepaald WiFi-netwerk vinden, zelfs niet als je de juiste naam invoert, zoals "ping raspi-1" in onze les. Achteraf gezien zou het misschien handiger zijn om Raspberry Pi 4 OS (64 bit) Desktop versie te installeren. Dit is een speciale versie van de computer die er uitziet als een gewone computer, zodat je ermee kunt werken via WiFi. Je moet wel een HDMI beeldscherm hebben om het te kunnen zien. Ik had daar ook problemen mee, je kunt het lezen in het artikel op mijn blog: [5-2024 UCTRONICS HDMI display](../blog/index.html#5-2024-UCTRONICS-HDMI-display). 
     Met Raspberry Pi 4 OS (64 bit) kun je een WiFi-netwerk uit een lijst selecteren dat je wilt gebruiken.
 
 ### Inhoud.
