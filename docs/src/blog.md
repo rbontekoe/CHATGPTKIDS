@@ -11,7 +11,7 @@ locale # toon instellingen
 sudo apt update # lijst bijwerken
 sudo apt install locales-all # alle talen installeren
 sudo raspi-config
-# Voer de stappen uit onder **vervolgens:**.
+# Voer de stappen uit onder vervolgens:.
 # Let goed op, lees de stappen eerst aandachtig door en volg ze precies zoals ze beschreven staan.
 ```
 **Vervolgens:**
