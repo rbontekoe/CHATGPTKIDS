@@ -73,7 +73,7 @@ Dat is super handig!
 !!! tip "Werkt niet bij het TechLab"
     Overigens werkt de naam `raspi-1` niet bij de CoderDojo evenementen die door het TechLab worden georganiseerd.
 
-    Ik heb een speciale versie van de software op de computer gezet. Deze software heet "Desktop"-versie. Hiermee kun je de wifi instellen met de juiste naam en wachtwoord. Het wifi netwerk staat al ingesteld voor je.
+    Ik heb een speciale versie van de software op de computer gezet. Deze software heet "Desktop"-versie. Hiermee kun je de wifi instellen met de juiste naam en wachtwoord. Bij de CoderDojo staat het wifi netwerk al ingesteld voor je.
 
     De Raspberry Pi heeft een wachtwoord nodig om te gebruiken. Vraag je begeleider wat het wachtwoord is. Zodra je het wachtwoord weet, kun je inloggen en met de computer aan de slag!
     
