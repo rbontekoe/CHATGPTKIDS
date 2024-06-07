@@ -72,9 +72,11 @@ Dat is super handig!
 !!! tip "Werkt niet bij het TechLab"
     Overigens werkt de naam `raspi-1` niet bij de CoderDojo evenementen die door het TechLab worden georganiseerd.
 
-    Ik heb daarom de Desktop versie geinstalleerd, zodat je de juiste SSID kunt installeren en wachtwoord. De Raspberry Pi vraagt om een wachtwoord. Vraag aan je begeleider wat het juiste wachtwoord is.
+    Ik heb een speciale versie van de software op de computer gezet. Deze software heet "Desktop". Hiermee kun je de wifi instellen met de juiste naam en wachtwoord.
+
+    De Raspberry Pi heeft een wachtwoord nodig om te gebruiken. Vraag je begeleider wat het wachtwoord is. Zodra je het wachtwoord weet, kun je inloggen en met de computer aan de slag!
     
-    Als je het ip-adres wilt weten typ dan: `ip a` in de terminal. Een terminal maak je met: Ctrl+T.
+    Als je het IP-adres van de Raspberry Pi wilt weten, typ dan "ip a" in de terminal. De terminal is een soort venster waar je commando's kunt typen om de computer te besturen. Je opent de terminal door op Ctrl+T te drukken of met je muis op het zwarte vakje met ">_" erin te klikken.
 
 ### 13-03-2024 - Module voor de Sense-HAT.
 
