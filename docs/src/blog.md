@@ -19,15 +19,16 @@ sudo raspi-config
 
 |Stap        | Actie      |
 |:---------- | :---------- |
-| 1 | Nu de instellingen aanpassen, kies voor (met pijl naar beneden en Enter): 5. Localisation Options -> L1. Locale. ``\\``![blog_1_6](assets/blog_1_6.png)|
-| 2 | Markeer met de spatiebalk `nl_NL.UTF-8` in de lijst. ``\\``![blog_1_7](assets/blog_1_7.png) |
-| 3 | Druk op de Tab-toets. <Ok> is nu verlicht. Druk op de Enter-toets. |
-| 4 | `nl_NL.UTF-8` staat al verlicht. ``\\``![blog_1_8](assets/blog_1_8.png) |
-| 5 | Druk op de Tab-toets. <Ok> is nu verlicht. Druk op de Enter-toets. |
-| 6 | Druk op de Tab-toets om het menu te verlaten. <Select> staat nu verlicht. ``\\``![blog_1_9](assets/blog_1_9.png) |
-| 7 | Druk op de pijl naar rechts toets. <Finish> is nu verlicht. |
-| 8 | Druk op de Enter-toets. Je bent terug bij de prompt. |
-| 9 | Herstart de Raspberry Pi met: `sudo reboot`. |
+| 1 | Nu de instellingen aanpassen, kies eerste voor (met pijl naar beneden en Enter): 5. Localisation Options  ``\\``![blog_1_6](assets/blog_1_6.png)|
+| 2 | Kies voor L1. Locale. Druk op de Enter-toets. ``\\``![blog_1_10](assets/blog_1_10.png) |
+| 3 | Markeer met de spatiebalk `nl_NL.UTF-8` in de lijst. ``\\``![blog_1_7](assets/blog_1_7.png)  |
+| 4 | Druk op de Tab-toets. <Ok> is nu verlicht. Druk op de Enter-toets. |
+| 5 | `nl_NL.UTF-8` staat al verlicht. ``\\``![blog_1_8](assets/blog_1_8.png) |
+| 6 | Druk op de Tab-toets. <Ok> is nu verlicht. Druk op de Enter-toets. |
+| 7 | Druk op de Tab-toets om het menu te verlaten. <Select> staat nu verlicht. ``\\``![blog_1_9](assets/blog_1_9.png) |
+| 8 | Druk op de pijl naar rechts toets. <Finish> is nu verlicht. |
+| 9 | Druk op de Enter-toets. Je bent terug bij de prompt. |
+| 10 | Herstart de Raspberry Pi met: `sudo reboot`. |
 
 ### 26-5-2024 - UCTRONICS HDMI display
 
