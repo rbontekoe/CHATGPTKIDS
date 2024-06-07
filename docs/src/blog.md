@@ -6,7 +6,7 @@
 
 Zorg ervoor dat er een toetsenbord, muis en HDMI-scherm op de Raspberry Pi zijn aangesloten. Zorg ervoor dat je bent verbonden met het wifi-netwerk van TechLab. Standaard is dit netwerk al voor je ingesteld.
 
-Zoek naar een zwart vlakje met ">_" op je scherm. Klik met de muis op dit vlakje om een teminal te openen.
+Zoek naar een zwart vlakje met ">_" op je scherm. Klik met de muis op dit vlakje om een teminal te openen. Vergroot het venster door met je muis op "^"-symbool in de titelbalk te klikken.
 
 Het ip adres van de Raspberry Pi toon je als volgt:
  
