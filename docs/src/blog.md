@@ -4,7 +4,7 @@
 
 ### 05/06/2024 - Locale instelling wijzigen
 
-Als je in de terminal typt: `locale`, dan krijg je de instellingen van je taal en andere zaken te zien. Ik had het probleem dat het Nederlands niet goed ingesteld stond en ik heb toen het volgende gedaan, zie [Raspberry Pi Forum](https://forums.raspberrypi.com/viewtopic.php?t=253136):
+Als je nu het commando "locale" typt, dan laat je computer zien in welke taal hij praat en hoe hij andere dingen instelt. Net zoals je thuis misschien de taal van je tv of spelcomputer kunt aanpassen, kun je dat ook met je computer doen, zie ook [Raspberry Pi Forum](https://forums.raspberrypi.com/viewtopic.php?t=253136):
 
 ```
 locale # toon instellingen
