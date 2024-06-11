@@ -117,7 +117,7 @@ Web Responsive Design (WRD) betekent dat je website op elk apparaat, zoals je co
       
        <div class="container">
          <button onclick="location.reload();">Volgende plaatje</button>
-         <h1 stype="text-align:center;">Mijn Eerste Honden Pagina</h1>
+         <h1 style="text-align:center;">Mijn Eerste Honden Pagina</h1>
          <img src="{{payload.message}}" width="100%" />           
        </div>
      

@@ -2,6 +2,11 @@
 
 ## 2024
 
+### 10/06/2024 - Eerste twee applicaties werken niet meer goed!
+
+**LET OP!**
+In de laatste CoderDojo merkte ik dat de eerste twee opdrachten niet meer goed werken, omdat Http-in een Http-request in de laatste versie 3.1.9 van Node-RED zijn aangepast. Ik moet de opdrachten gaan aanpassen en laat weten wanneer ze veranderd zijn.
+
 ### 07/06/2024 - IP adres Raspberry Pi tonen bij de CoderDojo sessie van het Techlab
 
 Zorg ervoor dat er een toetsenbord, muis en HDMI-scherm op de Raspberry Pi zijn aangesloten. Zorg ervoor dat je bent verbonden met het wifi-netwerk van TechLab. Standaard is dit netwerk al voor je ingesteld.
