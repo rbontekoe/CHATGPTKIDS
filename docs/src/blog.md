@@ -2,6 +2,10 @@
 
 ## 2024
 
+### 12/11/2024 - Alles werkt weer goed!
+
+Na mijn post op 10/11/2014 heb ik de Rasperry Pi weer opnieuw geïnstalleerd. Alles werkt weer zoals van ouds! De Node-RED versie is nog steeds 3.1.9. De opdrachten hoefde ik niet aan te passen.
+
 ### 10/06/2024 - Eerste twee applicaties werken niet meer goed!
 
 **LET OP!**
