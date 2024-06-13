@@ -31,7 +31,7 @@ Het blijkt dat het ook Python-code voor de Sense-HAT kan genereren. Je moet wel 
 |Stap        | Actie      |
 |:---------- | :---------- |
 | 1 | Open je browser. |
-| 2 | Typ: `https://openai.com/` in de adresbalk. |
+| 2 | Typ: `https://chatgpt.com/` in de adresbalk.Als je nog nog geen account bij Openai hebt, volg dan de stappen uit de [bijlage](../appendix/#Account-aanmaken-bij-ChatGPT). |
 | 3 | Klik rechtsboven op de toets: Try ChatGPT. ``\\``![ig_7_1](assets/fig_7_1.png) |
 | 4 | Vermoedelijk wordt er gevraagd om in te loggen. Registreer jezelf eerst. |
 | 5 | Klik linksboven in de linkerkolom op: New Chat. ``\\``![fig_7_9](assets/fig_7_9.png) |
