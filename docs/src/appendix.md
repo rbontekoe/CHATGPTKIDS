@@ -4,6 +4,17 @@
     Zorg ervoor dat je toestemming hebt van een ouder of verantwoordelijke volwassene voordat je iets downloadt op je computer. Als je hulp nodig hebt tijdens het downloaden en installeren, vraag dan aan een ouder of verantwoordelijke volwassene om je te helpen.
 
 
+## Account aanmaken bij CHatGPT
+
+Om een account aan te maken voor ChatGPT bij OpenAI, kun je de volgende stappen volgen:
+
+1. Open je webbrowser en ga naar [OpenAI](https://chatgpt.com/auth/login) en klik op de toets **Registreren** . ``\\``![blog_1_13.png](assets/blog_1_13.png).
+2. Klik op de link **Registreren** of maak een keuze voor één van de accounts uit de lijst daaronder als je die al hebt. ``\\``![blog_1_12.png](assets/blog_1_12.png): 
+3. Vul je gegevens in. Je wordt gevraagd om enkele persoonlijke gegevens in te vullen, zoals je naam, e-mailadres en een wachtwoord. Zorg ervoor dat je een geldig e-mailadres gebruikt, want je zult een bevestigingsmail ontvangen.
+4. Verifieer je e-mailadres. Na het invullen van je gegevens en het indienen van het formulier, ontvang je een e-mail van OpenAI met een link om je e-mailadres te verifiëren. Klik op deze link om je registratie te voltooien.
+5. Log in op je account: Na verificatie kun je teruggaan naar de OpenAI-website en inloggen met je nieuwe accountgegevens.
+
+
 ## Importeren van de code van alle hoofdstukken vanaf les 5
 
 Importeer de de volgende code via het Menu/Import.
